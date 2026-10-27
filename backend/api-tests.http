@@ -1,0 +1,243 @@
+@baseUrl = http://localhost:5000/api
+
+### 1. Register owner
+POST {{baseUrl}}/auth/register
+Content-Type: application/json
+
+{
+  "name": "Rajesh Kumar",
+  "email": "rajesh.kumar@example.com",
+  "password": "Owner@123",
+  "role": "owner",
+  "phone": "9876543210"
+}
+
+### 2. Register tenant
+POST {{baseUrl}}/auth/register
+Content-Type: application/json
+
+{
+  "name": "Priya Sharma",
+  "email": "priya.sharma@example.com",
+  "password": "Tenant@123",
+  "role": "tenant",
+  "phone": "9812345678"
+}
+
+### 3. Login (tenant)
+# @name login
+POST {{baseUrl}}/auth/login
+Content-Type: application/json
+
+{
+  "email": "priya.sharma@example.com",
+  "password": "Tenant@123"
+}
+
+### 4. Profile with token (uses the token from request 3 automatically)
+GET {{baseUrl}}/auth/me
+Authorization: Bearer {{login.response.body.token}}
+
+### 5. Error: wrong password
+POST {{baseUrl}}/auth/login
+Content-Type: application/json
+
+{
+  "email": "priya.sharma@example.com",
+  "password": "wrongpass"
+}
+
+### 6. Error: no token
+GET {{baseUrl}}/auth/me
+
+### 7. Login (owner)
+# @name ownerLogin
+POST {{baseUrl}}/auth/login
+Content-Type: application/json
+
+{
+  "email": "rajesh.kumar@example.com",
+  "password": "Owner@123"
+}
+
+### 8. Create property (owner)
+# @name createProp
+POST {{baseUrl}}/properties
+Content-Type: application/json
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+{
+  "title": "2BHK Apartment in Sector 70, Mohali",
+  "description": "Spacious flat near market and schools",
+  "city": "Mohali",
+  "locality": "Sector 70",
+  "type": "Apartment",
+  "rent": 22000,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "areaSqFt": 1050,
+  "floor": 3,
+  "furnished": "Semi-Furnished",
+  "amenities": ["Parking", "Lift", "Power Backup"]
+}
+
+### 9. List all properties (public)
+GET {{baseUrl}}/properties
+
+### 10. Search and filter
+GET {{baseUrl}}/properties?city=Mohali&type=Apartment&minRent=15000&maxRent=30000&sort=rent_asc
+
+### 11. Get one property
+GET {{baseUrl}}/properties/{{createProp.response.body.property._id}}
+
+### 12. My properties (owner)
+GET {{baseUrl}}/properties/my
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+### 13. Update property (owner)
+PUT {{baseUrl}}/properties/{{createProp.response.body.property._id}}
+Content-Type: application/json
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+{
+  "rent": 23500,
+  "furnished": "Furnished"
+}
+
+### 14. Error: tenant tries to create (403)
+POST {{baseUrl}}/properties
+Content-Type: application/json
+Authorization: Bearer {{login.response.body.token}}
+
+{ "title": "Test", "city": "Delhi" }
+
+### 15. Error: no token (401)
+POST {{baseUrl}}/properties
+Content-Type: application/json
+
+{ "title": "Test" }
+
+### 16. Error: validation failure (400)
+POST {{baseUrl}}/properties
+Content-Type: application/json
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+{ "title": "Incomplete listing", "city": "Delhi" }
+
+### 17. Tenant sends inquiry
+# @name createInq
+POST {{baseUrl}}/inquiries
+Content-Type: application/json
+Authorization: Bearer {{login.response.body.token}}
+
+{
+  "propertyId": "{{createProp.response.body.property._id}}",
+  "message": "Namaste, I am interested in this flat. Can I visit this Sunday?"
+}
+
+### 18. Error: duplicate inquiry (400)
+POST {{baseUrl}}/inquiries
+Content-Type: application/json
+Authorization: Bearer {{login.response.body.token}}
+
+{
+  "propertyId": "{{createProp.response.body.property._id}}"
+}
+
+### 19. Tenant views own inquiries
+GET {{baseUrl}}/inquiries/my
+Authorization: Bearer {{login.response.body.token}}
+
+### 20. Owner views received inquiries
+GET {{baseUrl}}/inquiries/received
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+### 21. Owner accepts inquiry
+PUT {{baseUrl}}/inquiries/{{createInq.response.body.inquiry._id}}
+Content-Type: application/json
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+{ "status": "Accepted" }
+
+### 22. Error: owner tries to send inquiry (403)
+POST {{baseUrl}}/inquiries
+Content-Type: application/json
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+{
+  "propertyId": "{{createProp.response.body.property._id}}"
+}
+
+### 23. Error: tenant tries to accept (403)
+PUT {{baseUrl}}/inquiries/{{createInq.response.body.inquiry._id}}
+Content-Type: application/json
+Authorization: Bearer {{login.response.body.token}}
+
+{ "status": "Accepted" }
+
+### 24. Error: invalid status (400)
+PUT {{baseUrl}}/inquiries/{{createInq.response.body.inquiry._id}}
+Content-Type: application/json
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+{ "status": "Maybe" }
+
+### 25. Predict rent (tenant or owner)
+POST {{baseUrl}}/predict-rent
+Content-Type: application/json
+Authorization: Bearer {{login.response.body.token}}
+
+{
+  "city": "Chandigarh",
+  "type": "Apartment",
+  "furnished": "Semi-Furnished",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "areaSqFt": 1100,
+  "floor": 3,
+  "amenities": ["Parking", "Lift", "Power Backup"]
+}
+
+### 26. Predict with asking rent (verdict)
+POST {{baseUrl}}/predict-rent
+Content-Type: application/json
+Authorization: Bearer {{ownerLogin.response.body.token}}
+
+{
+  "city": "Mohali",
+  "type": "Apartment",
+  "furnished": "Furnished",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "areaSqFt": 1250,
+  "floor": 4,
+  "amenity_count": 6,
+  "rent": 60000
+}
+
+### 27. Error: invalid city (400)
+POST {{baseUrl}}/predict-rent
+Content-Type: application/json
+Authorization: Bearer {{login.response.body.token}}
+
+{
+  "city": "Atlantis",
+  "type": "Apartment",
+  "furnished": "Furnished",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "areaSqFt": 900
+}
+
+### 28. Error: missing fields (400)
+POST {{baseUrl}}/predict-rent
+Content-Type: application/json
+Authorization: Bearer {{login.response.body.token}}
+
+{ "city": "Delhi" }
+
+### 29. Error: no token (401)
+POST {{baseUrl}}/predict-rent
+Content-Type: application/json
+
+{ "city": "Delhi" }
