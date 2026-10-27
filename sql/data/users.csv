@@ -1,0 +1,18 @@
+user_id,name,email,role,city
+1,Rajesh Kumar,rajesh.kumar@example.com,Owner,Chandigarh
+2,Gurpreet Singh,gurpreet.singh@example.com,Owner,Mohali
+3,Sunita Verma,sunita.verma@example.com,Owner,Panchkula
+4,Amit Agarwal,amit.agarwal@example.com,Owner,Delhi
+5,Harpreet Kaur,harpreet.kaur@example.com,Owner,Gurugram
+6,Vikram Malhotra,vikram.malhotra@example.com,Owner,Noida
+7,Neha Gupta,neha.gupta@example.com,Owner,Mumbai
+8,Suresh Reddy,suresh.reddy@example.com,Owner,Pune
+9,Anil Joshi,anil.joshi@example.com,Owner,Bengaluru
+10,Priya Sharma,priya.sharma@example.com,Tenant,Chandigarh
+11,Rohan Mehta,rohan.mehta@example.com,Tenant,Delhi
+12,Simran Kaur,simran.kaur@example.com,Tenant,Mohali
+13,Arjun Nair,arjun.nair@example.com,Tenant,Bengaluru
+14,Pooja Yadav,pooja.yadav@example.com,Tenant,Pune
+15,Karan Bhatia,karan.bhatia@example.com,Tenant,Gurugram
+16,Ananya Iyer,ananya.iyer@example.com,Tenant,Mumbai
+17,Mohit Chauhan,mohit.chauhan@example.com,Tenant,Hyderabad

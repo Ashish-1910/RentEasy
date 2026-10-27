@@ -1,0 +1,61 @@
+property_id,title,city,locality,property_type,bedrooms,bathrooms,area_sqft,furnished,floor,amenity_count,rent,status,owner_name,listed_date,inquiry_count,rent_per_sqft
+1,"3BHK Apartment in Sector 35, Chandigarh",Chandigarh,Sector 35,Apartment,3,3,1143,Semi-Furnished,3,8,41500,Available,Rajesh Kumar,2026-10-13,2,36.31
+2,"4BHK Villa in Manimajra, Chandigarh",Chandigarh,Manimajra,Villa,4,4,2020,Semi-Furnished,1,9,109500,Available,Rajesh Kumar,2026-10-11,0,54.21
+3,"2BHK Apartment in Manimajra, Chandigarh",Chandigarh,Manimajra,Apartment,2,1,646,Furnished,20,8,25000,Rented,Rajesh Kumar,2026-07-27,1,38.7
+4,"3BHK Independent House in Sector 35, Chandigarh",Chandigarh,Sector 35,Independent House,3,3,1479,Furnished,2,6,61000,Rented,Rajesh Kumar,2026-07-09,1,41.24
+5,"Studio / PG Room in Manimajra, Chandigarh",Chandigarh,Manimajra,PG/Studio,1,1,220,Unfurnished,0,5,5500,Rented,Rajesh Kumar,2026-09-14,0,25
+6,"4BHK Apartment in Sector 71, Mohali",Mohali,Sector 71,Apartment,4,4,1388,Semi-Furnished,1,10,36500,Rented,Gurpreet Singh,2026-06-12,1,26.3
+7,"Studio / PG Room in Sector 71, Mohali",Mohali,Sector 71,PG/Studio,1,1,135,Unfurnished,1,6,3000,Rented,Gurpreet Singh,2026-08-21,1,22.22
+8,"1BHK Apartment in Sector 70, Mohali",Mohali,Sector 70,Apartment,1,1,358,Unfurnished,9,2,8000,Available,Gurpreet Singh,2026-08-30,2,22.35
+9,"3BHK Apartment in Phase 5, Mohali",Mohali,Phase 5,Apartment,3,3,1209,Furnished,15,1,33500,Available,Gurpreet Singh,2026-10-06,1,27.71
+10,"3BHK Apartment in Phase 5, Mohali",Mohali,Phase 5,Apartment,3,3,1233,Unfurnished,8,8,30500,Available,Gurpreet Singh,2026-07-03,0,24.74
+11,"Studio / PG Room in Sector 15, Panchkula",Panchkula,Sector 15,PG/Studio,1,1,190,Furnished,1,9,5500,Available,Sunita Verma,2026-07-19,2,28.95
+12,"4BHK Apartment in Sector 15, Panchkula",Panchkula,Sector 15,Apartment,4,3,1372,Furnished,3,8,34500,Available,Sunita Verma,2026-10-18,2,25.15
+13,"Studio / PG Room in Sector 7, Panchkula",Panchkula,Sector 7,PG/Studio,1,1,290,Unfurnished,0,6,6000,Available,Sunita Verma,2026-08-09,0,20.69
+14,"4BHK Apartment in Sector 20, Panchkula",Panchkula,Sector 20,Apartment,4,4,1344,Semi-Furnished,7,2,30000,Rented,Sunita Verma,2026-10-14,1,22.32
+15,"Studio / PG Room in Sector 20, Panchkula",Panchkula,Sector 20,PG/Studio,1,1,247,Unfurnished,1,8,5000,Rented,Sunita Verma,2026-06-16,1,20.24
+16,"2BHK Apartment in Janakpuri, Delhi",Delhi,Janakpuri,Apartment,2,2,712,Semi-Furnished,8,4,30000,Available,Amit Agarwal,2026-08-09,1,42.13
+17,"4BHK Apartment in Lajpat Nagar, Delhi",Delhi,Lajpat Nagar,Apartment,4,4,1392,Unfurnished,7,6,54500,Rented,Amit Agarwal,2026-06-12,4,39.15
+18,"1BHK Apartment in Rohini, Delhi",Delhi,Rohini,Apartment,1,1,328,Furnished,1,1,15000,Available,Amit Agarwal,2026-10-13,1,45.73
+19,"4BHK Apartment in Saket, Delhi",Delhi,Saket,Apartment,4,4,1416,Furnished,15,6,75500,Available,Amit Agarwal,2026-07-02,0,53.32
+20,"Studio / PG Room in Rohini, Delhi",Delhi,Rohini,PG/Studio,1,1,271,Furnished,3,3,11000,Available,Amit Agarwal,2026-07-12,0,40.59
+21,"2BHK Apartment in Sohna Road, Gurugram",Gurugram,Sohna Road,Apartment,2,2,648,Semi-Furnished,10,4,28500,Rented,Harpreet Kaur,2026-05-31,1,43.98
+22,"Studio / PG Room in DLF Phase 3, Gurugram",Gurugram,DLF Phase 3,PG/Studio,1,1,132,Unfurnished,1,9,5000,Available,Harpreet Kaur,2026-05-18,1,37.88
+23,"3BHK Apartment in Golf Course Road, Gurugram",Gurugram,Golf Course Road,Apartment,3,3,1272,Furnished,16,7,71000,Available,Harpreet Kaur,2026-07-13,0,55.82
+24,"Studio / PG Room in Sector 56, Gurugram",Gurugram,Sector 56,PG/Studio,1,1,294,Semi-Furnished,1,5,11000,Rented,Harpreet Kaur,2026-08-14,1,37.41
+25,"4BHK Apartment in Sector 56, Gurugram",Gurugram,Sector 56,Apartment,4,3,1480,Semi-Furnished,19,1,57500,Available,Harpreet Kaur,2026-09-04,0,38.85
+26,"1BHK Apartment in Sector 137, Noida",Noida,Sector 137,Apartment,1,1,337,Furnished,15,10,12500,Rented,Vikram Malhotra,2026-06-20,1,37.09
+27,"2BHK Independent House in Sector 137, Noida",Noida,Sector 137,Independent House,2,2,990,Unfurnished,2,2,27000,Available,Vikram Malhotra,2026-09-20,0,27.27
+28,"3BHK Apartment in Sector 18, Noida",Noida,Sector 18,Apartment,3,3,993,Semi-Furnished,1,7,30000,Available,Vikram Malhotra,2026-07-10,1,30.21
+29,"3BHK Apartment in Sector 75, Noida",Noida,Sector 75,Apartment,3,3,1218,Semi-Furnished,19,3,41000,Available,Vikram Malhotra,2026-06-15,1,33.66
+30,"3BHK Villa in Sector 62, Noida",Noida,Sector 62,Villa,3,3,1356,Semi-Furnished,0,5,53000,Rented,Vikram Malhotra,2026-09-01,0,39.09
+31,"4BHK Villa in Powai, Mumbai",Mumbai,Powai,Villa,4,3,2224,Furnished,2,2,285500,Available,Neha Gupta,2026-06-22,0,128.37
+32,"4BHK Apartment in Andheri West, Mumbai",Mumbai,Andheri West,Apartment,4,3,1424,Unfurnished,2,5,93500,Available,Neha Gupta,2026-08-30,0,65.66
+33,"Studio / PG Room in Borivali, Mumbai",Mumbai,Borivali,PG/Studio,1,1,195,Unfurnished,2,5,12500,Available,Neha Gupta,2026-06-24,0,64.1
+34,"3BHK Apartment in Andheri West, Mumbai",Mumbai,Andheri West,Apartment,3,3,1284,Furnished,11,10,109500,Rented,Neha Gupta,2026-09-10,1,85.28
+35,"4BHK Apartment in Powai, Mumbai",Mumbai,Powai,Apartment,4,4,1236,Furnished,3,7,115000,Rented,Neha Gupta,2026-06-24,0,93.04
+36,"2BHK Apartment in Wakad, Pune",Pune,Wakad,Apartment,2,2,758,Semi-Furnished,11,4,26500,Available,Suresh Reddy,2026-06-05,0,34.96
+37,"3BHK Apartment in Baner, Pune",Pune,Baner,Apartment,3,2,1281,Semi-Furnished,14,8,42000,Rented,Suresh Reddy,2026-08-01,0,32.79
+38,"4BHK Independent House in Hinjewadi, Pune",Pune,Hinjewadi,Independent House,4,4,1504,Semi-Furnished,1,9,55500,Available,Suresh Reddy,2026-09-01,1,36.9
+39,"4BHK Apartment in Baner, Pune",Pune,Baner,Apartment,4,3,1252,Unfurnished,6,1,36000,Available,Suresh Reddy,2026-07-15,2,28.75
+40,"2BHK Apartment in Kothrud, Pune",Pune,Kothrud,Apartment,2,2,610,Unfurnished,11,2,15500,Rented,Suresh Reddy,2026-06-05,0,25.41
+41,"3BHK Apartment in Koramangala, Bengaluru",Bengaluru,Koramangala,Apartment,3,3,1104,Unfurnished,1,10,43500,Available,Anil Joshi,2026-05-10,0,39.4
+42,"4BHK Independent House in Whitefield, Bengaluru",Bengaluru,Whitefield,Independent House,4,4,1692,Furnished,1,9,93000,Available,Anil Joshi,2026-07-31,2,54.96
+43,"3BHK Apartment in HSR Layout, Bengaluru",Bengaluru,HSR Layout,Apartment,3,2,1140,Unfurnished,19,4,48500,Available,Anil Joshi,2026-07-27,2,42.54
+44,"1BHK Apartment in Whitefield, Bengaluru",Bengaluru,Whitefield,Apartment,1,1,401,Furnished,7,7,18000,Available,Anil Joshi,2026-07-16,0,44.89
+45,"Studio / PG Room in Electronic City, Bengaluru",Bengaluru,Electronic City,PG/Studio,1,1,137,Unfurnished,1,8,5000,Available,Anil Joshi,2026-05-16,1,36.5
+46,"4BHK Apartment in Madhapur, Hyderabad",Hyderabad,Madhapur,Apartment,4,4,1564,Semi-Furnished,15,5,46500,Available,Rajesh Kumar,2026-09-09,4,29.73
+47,"1BHK Apartment in Banjara Hills, Hyderabad",Hyderabad,Banjara Hills,Apartment,1,1,398,Furnished,16,2,15000,Rented,Rajesh Kumar,2026-10-11,2,37.69
+48,"5BHK Independent House in Gachibowli, Hyderabad",Hyderabad,Gachibowli,Independent House,5,5,2025,Unfurnished,2,6,60500,Available,Rajesh Kumar,2026-08-02,0,29.88
+49,"Studio / PG Room in Gachibowli, Hyderabad",Hyderabad,Gachibowli,PG/Studio,1,1,156,Unfurnished,1,2,4000,Available,Rajesh Kumar,2026-07-20,0,25.64
+50,"2BHK Independent House in Kukatpally, Hyderabad",Hyderabad,Kukatpally,Independent House,2,2,838,Semi-Furnished,2,8,32500,Available,Rajesh Kumar,2026-10-09,1,38.78
+51,"4BHK Apartment in C-Scheme, Jaipur",Jaipur,C-Scheme,Apartment,4,4,1472,Unfurnished,16,5,28500,Available,Gurpreet Singh,2026-08-14,0,19.36
+52,"3BHK Apartment in Mansarovar, Jaipur",Jaipur,Mansarovar,Apartment,3,3,1128,Semi-Furnished,1,5,20500,Rented,Gurpreet Singh,2026-05-17,1,18.17
+53,"3BHK Apartment in Vaishali Nagar, Jaipur",Jaipur,Vaishali Nagar,Apartment,3,2,984,Semi-Furnished,9,1,19500,Available,Gurpreet Singh,2026-09-12,1,19.82
+54,"3BHK Independent House in Vaishali Nagar, Jaipur",Jaipur,Vaishali Nagar,Independent House,3,2,1287,Semi-Furnished,2,7,25000,Rented,Gurpreet Singh,2026-08-23,1,19.43
+55,"2BHK Independent House in Vaishali Nagar, Jaipur",Jaipur,Vaishali Nagar,Independent House,2,1,792,Semi-Furnished,2,0,17000,Rented,Gurpreet Singh,2026-07-18,0,21.46
+56,"1BHK Apartment in Hazratganj, Lucknow",Lucknow,Hazratganj,Apartment,1,1,327,Semi-Furnished,6,4,6000,Available,Sunita Verma,2026-08-03,0,18.35
+57,"4BHK Independent House in Indira Nagar, Lucknow",Lucknow,Indira Nagar,Independent House,4,3,1648,Unfurnished,1,5,25500,Rented,Sunita Verma,2026-06-10,1,15.47
+58,"3BHK Apartment in Aliganj, Lucknow",Lucknow,Aliganj,Apartment,3,2,924,Unfurnished,9,4,14000,Rented,Sunita Verma,2026-09-27,1,15.15
+59,"1BHK Apartment in Aliganj, Lucknow",Lucknow,Aliganj,Apartment,1,1,334,Furnished,2,3,6500,Available,Sunita Verma,2026-08-12,1,19.46
+60,"4BHK Apartment in Hazratganj, Lucknow",Lucknow,Hazratganj,Apartment,4,4,1332,Unfurnished,13,1,22000,Available,Sunita Verma,2026-10-20,1,16.52

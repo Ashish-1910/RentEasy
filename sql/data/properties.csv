@@ -1,0 +1,61 @@
+property_id,owner_id,city,locality,property_type,bedrooms,bathrooms,area_sqft,furnished,floor_no,amenity_count,rent,status,listed_date
+1,1,Chandigarh,Sector 35,Apartment,3,3,1143,Semi-Furnished,3,8,41500,Available,2026-10-13
+2,1,Chandigarh,Manimajra,Villa,4,4,2020,Semi-Furnished,1,9,109500,Available,2026-10-11
+3,1,Chandigarh,Manimajra,Apartment,2,1,646,Furnished,20,8,25000,Rented,2026-07-27
+4,1,Chandigarh,Sector 35,Independent House,3,3,1479,Furnished,2,6,61000,Rented,2026-07-09
+5,1,Chandigarh,Manimajra,PG/Studio,1,1,220,Unfurnished,0,5,5500,Rented,2026-09-14
+6,2,Mohali,Sector 71,Apartment,4,4,1388,Semi-Furnished,1,10,36500,Rented,2026-06-12
+7,2,Mohali,Sector 71,PG/Studio,1,1,135,Unfurnished,1,6,3000,Rented,2026-08-21
+8,2,Mohali,Sector 70,Apartment,1,1,358,Unfurnished,9,2,8000,Available,2026-08-30
+9,2,Mohali,Phase 5,Apartment,3,3,1209,Furnished,15,1,33500,Available,2026-10-06
+10,2,Mohali,Phase 5,Apartment,3,3,1233,Unfurnished,8,8,30500,Available,2026-07-03
+11,3,Panchkula,Sector 15,PG/Studio,1,1,190,Furnished,1,9,5500,Available,2026-07-19
+12,3,Panchkula,Sector 15,Apartment,4,3,1372,Furnished,3,8,34500,Available,2026-10-18
+13,3,Panchkula,Sector 7,PG/Studio,1,1,290,Unfurnished,0,6,6000,Available,2026-08-09
+14,3,Panchkula,Sector 20,Apartment,4,4,1344,Semi-Furnished,7,2,30000,Rented,2026-10-14
+15,3,Panchkula,Sector 20,PG/Studio,1,1,247,Unfurnished,1,8,5000,Rented,2026-06-16
+16,4,Delhi,Janakpuri,Apartment,2,2,712,Semi-Furnished,8,4,30000,Available,2026-08-09
+17,4,Delhi,Lajpat Nagar,Apartment,4,4,1392,Unfurnished,7,6,54500,Rented,2026-06-12
+18,4,Delhi,Rohini,Apartment,1,1,328,Furnished,1,1,15000,Available,2026-10-13
+19,4,Delhi,Saket,Apartment,4,4,1416,Furnished,15,6,75500,Available,2026-07-02
+20,4,Delhi,Rohini,PG/Studio,1,1,271,Furnished,3,3,11000,Available,2026-07-12
+21,5,Gurugram,Sohna Road,Apartment,2,2,648,Semi-Furnished,10,4,28500,Rented,2026-05-31
+22,5,Gurugram,DLF Phase 3,PG/Studio,1,1,132,Unfurnished,1,9,5000,Available,2026-05-18
+23,5,Gurugram,Golf Course Road,Apartment,3,3,1272,Furnished,16,7,71000,Available,2026-07-13
+24,5,Gurugram,Sector 56,PG/Studio,1,1,294,Semi-Furnished,1,5,11000,Rented,2026-08-14
+25,5,Gurugram,Sector 56,Apartment,4,3,1480,Semi-Furnished,19,1,57500,Available,2026-09-04
+26,6,Noida,Sector 137,Apartment,1,1,337,Furnished,15,10,12500,Rented,2026-06-20
+27,6,Noida,Sector 137,Independent House,2,2,990,Unfurnished,2,2,27000,Available,2026-09-20
+28,6,Noida,Sector 18,Apartment,3,3,993,Semi-Furnished,1,7,30000,Available,2026-07-10
+29,6,Noida,Sector 75,Apartment,3,3,1218,Semi-Furnished,19,3,41000,Available,2026-06-15
+30,6,Noida,Sector 62,Villa,3,3,1356,Semi-Furnished,0,5,53000,Rented,2026-09-01
+31,7,Mumbai,Powai,Villa,4,3,2224,Furnished,2,2,285500,Available,2026-06-22
+32,7,Mumbai,Andheri West,Apartment,4,3,1424,Unfurnished,2,5,93500,Available,2026-08-30
+33,7,Mumbai,Borivali,PG/Studio,1,1,195,Unfurnished,2,5,12500,Available,2026-06-24
+34,7,Mumbai,Andheri West,Apartment,3,3,1284,Furnished,11,10,109500,Rented,2026-09-10
+35,7,Mumbai,Powai,Apartment,4,4,1236,Furnished,3,7,115000,Rented,2026-06-24
+36,8,Pune,Wakad,Apartment,2,2,758,Semi-Furnished,11,4,26500,Available,2026-06-05
+37,8,Pune,Baner,Apartment,3,2,1281,Semi-Furnished,14,8,42000,Rented,2026-08-01
+38,8,Pune,Hinjewadi,Independent House,4,4,1504,Semi-Furnished,1,9,55500,Available,2026-09-01
+39,8,Pune,Baner,Apartment,4,3,1252,Unfurnished,6,1,36000,Available,2026-07-15
+40,8,Pune,Kothrud,Apartment,2,2,610,Unfurnished,11,2,15500,Rented,2026-06-05
+41,9,Bengaluru,Koramangala,Apartment,3,3,1104,Unfurnished,1,10,43500,Available,2026-05-10
+42,9,Bengaluru,Whitefield,Independent House,4,4,1692,Furnished,1,9,93000,Available,2026-07-31
+43,9,Bengaluru,HSR Layout,Apartment,3,2,1140,Unfurnished,19,4,48500,Available,2026-07-27
+44,9,Bengaluru,Whitefield,Apartment,1,1,401,Furnished,7,7,18000,Available,2026-07-16
+45,9,Bengaluru,Electronic City,PG/Studio,1,1,137,Unfurnished,1,8,5000,Available,2026-05-16
+46,1,Hyderabad,Madhapur,Apartment,4,4,1564,Semi-Furnished,15,5,46500,Available,2026-09-09
+47,1,Hyderabad,Banjara Hills,Apartment,1,1,398,Furnished,16,2,15000,Rented,2026-10-11
+48,1,Hyderabad,Gachibowli,Independent House,5,5,2025,Unfurnished,2,6,60500,Available,2026-08-02
+49,1,Hyderabad,Gachibowli,PG/Studio,1,1,156,Unfurnished,1,2,4000,Available,2026-07-20
+50,1,Hyderabad,Kukatpally,Independent House,2,2,838,Semi-Furnished,2,8,32500,Available,2026-10-09
+51,2,Jaipur,C-Scheme,Apartment,4,4,1472,Unfurnished,16,5,28500,Available,2026-08-14
+52,2,Jaipur,Mansarovar,Apartment,3,3,1128,Semi-Furnished,1,5,20500,Rented,2026-05-17
+53,2,Jaipur,Vaishali Nagar,Apartment,3,2,984,Semi-Furnished,9,1,19500,Available,2026-09-12
+54,2,Jaipur,Vaishali Nagar,Independent House,3,2,1287,Semi-Furnished,2,7,25000,Rented,2026-08-23
+55,2,Jaipur,Vaishali Nagar,Independent House,2,1,792,Semi-Furnished,2,0,17000,Rented,2026-07-18
+56,3,Lucknow,Hazratganj,Apartment,1,1,327,Semi-Furnished,6,4,6000,Available,2026-08-03
+57,3,Lucknow,Indira Nagar,Independent House,4,3,1648,Unfurnished,1,5,25500,Rented,2026-06-10
+58,3,Lucknow,Aliganj,Apartment,3,2,924,Unfurnished,9,4,14000,Rented,2026-09-27
+59,3,Lucknow,Aliganj,Apartment,1,1,334,Furnished,2,3,6500,Available,2026-08-12
+60,3,Lucknow,Hazratganj,Apartment,4,4,1332,Unfurnished,13,1,22000,Available,2026-10-20
