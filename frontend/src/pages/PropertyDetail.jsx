@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import PropertyImage from "../components/PropertyImage";
 import api from "../api/axios";
 import { useAuth } from "../context/AuthContext";
 import InquiryModal from "../components/InquiryModal";
@@ -68,9 +69,7 @@ export default function PropertyDetail() {
       <div className="row g-4 mt-1">
         <div className="col-lg-8">
           <div className="card shadow-sm">
-            <div className="property-img" style={{ height: 220 }}>
-              🏠
-            </div>
+            <PropertyImage property={p} height={300} />
             <div className="card-body">
               <div className="d-flex justify-content-between">
                 <span className="badge text-bg-secondary">{p.type}</span>

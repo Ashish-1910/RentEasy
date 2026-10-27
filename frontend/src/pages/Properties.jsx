@@ -4,6 +4,7 @@ import api from "../api/axios";
 import SearchFilter from "../components/SearchFilter";
 import PropertyCard from "../components/PropertyCard";
 import { errMsg } from "../constants";
+import SkeletonCard from "../components/SkeletonCard";
 
 const FILTER_KEYS = [
   "search",
@@ -62,7 +63,12 @@ export default function Properties() {
 
   return (
     <div className="container py-4">
-      <h3 className="mb-3">Browse Rental Properties</h3>
+      <div className="page-banner mb-4">
+        <h3 className="mb-1">Browse Rental Properties</h3>
+        <p className="mb-0 opacity-75">
+          Rental listings across 12 Indian cities
+        </p>
+      </div>
       <SearchFilter
         key={query}
         initial={Object.fromEntries(params.entries())}
@@ -72,8 +78,10 @@ export default function Properties() {
       {error && <div className="alert alert-danger">{error}</div>}
 
       {loading ? (
-        <div className="text-center py-5">
-          <div className="spinner-border" role="status" />
+        <div className="row g-4">
+          {Array.from({ length: 6 }).map((_, i) => (
+            <div className="col-12 col-md-6 col-lg-4" key={i}><SkeletonCard /></div>
+          ))}
         </div>
       ) : data.properties.length === 0 ? (
         <div className="alert alert-info">

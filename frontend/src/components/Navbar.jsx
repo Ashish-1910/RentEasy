@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link, NavLink, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 
@@ -6,6 +6,14 @@ export default function Navbar() {
   const { user, logout } = useAuth();
   const navigate = useNavigate();
   const [q, setQ] = useState("");
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 10);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
 
   const onSearch = (e) => {
     e.preventDefault();
@@ -22,10 +30,11 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+    <nav
+      className={`navbar navbar-expand-lg navbar-dark sticky-top site-nav ${scrolled ? "scrolled" : ""}`}>
       <div className="container">
         <Link className="navbar-brand fw-bold" to="/">
-          RentEasy
+          <i className="bi bi-house-door-fill me-2 text-info"></i>RentEasy
         </Link>
         <button
           className="navbar-toggler"
@@ -73,14 +82,17 @@ export default function Navbar() {
               onChange={(e) => setQ(e.target.value)}
             />
             <button className="btn btn-outline-light btn-sm" type="submit">
-              Search
+              <i className="bi bi-search"></i>
             </button>
           </form>
           <div className="d-flex align-items-center gap-2">
             {user ? (
               <>
-                <span className="text-light small">
-                  Hi, {user.name.split(" ")[0]} ({user.role})
+                <span className="avatar">
+                  {user.name.charAt(0).toUpperCase()}
+                </span>
+                <span className="text-light small d-none d-xl-inline">
+                  {user.name.split(" ")[0]} ({user.role})
                 </span>
                 <button
                   className="btn btn-outline-light btn-sm"
