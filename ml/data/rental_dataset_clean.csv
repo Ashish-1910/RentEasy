@@ -1,0 +1,1478 @@
+city,locality,property_type,bedrooms,bathrooms,area_sqft,furnished,floor,amenity_count,rent,price_category,cluster,cluster_label
+Mohali,Sector 82,Apartment,2,1,824,Unfurnished,1,5,19000,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,Apartment,4,3,1640,Furnished,9,4,33000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,2,1,658,Unfurnished,1,9,26500,Mid-Range,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,4,4,1232,Furnished,20,9,50000,Premium,1,Mid-Range / Standard
+Gurugram,Sector 56,Apartment,3,2,960,Furnished,15,4,47500,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,Apartment,2,2,808,Semi-Furnished,3,1,12500,Affordable,0,Budget / Compact
+Mumbai,Borivali,Apartment,1,1,409,Semi-Furnished,13,8,33500,Mid-Range,0,Budget / Compact
+Hyderabad,Banjara Hills,Apartment,2,1,662,Unfurnished,10,1,19000,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Independent House,3,2,1368,Semi-Furnished,0,5,47000,Premium,1,Mid-Range / Standard
+Mumbai,Powai,Independent House,2,1,896,Furnished,1,6,86000,Premium,0,Budget / Compact
+Mumbai,Thane West,Independent House,5,5,1975,Semi-Furnished,1,10,169000,Premium,2,Premium / Spacious
+Panchkula,Sector 7,Apartment,4,3,1628,Unfurnished,1,3,35000,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,Villa,6,6,3498,Furnished,1,3,147500,Premium,2,Premium / Spacious
+Panchkula,Sector 5,Independent House,2,1,910,Semi-Furnished,1,1,23000,Mid-Range,0,Budget / Compact
+Noida,Sector 18,Apartment,1,1,349,Semi-Furnished,5,6,10000,Affordable,0,Budget / Compact
+Gurugram,Sector 56,PG/Studio,1,1,141,Semi-Furnished,1,9,5500,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Villa,4,4,2376,Unfurnished,2,0,95000,Premium,2,Premium / Spacious
+Mohali,Sector 70,Apartment,2,1,788,Unfurnished,6,6,17000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Independent House,4,3,1448,Semi-Furnished,0,1,52000,Premium,1,Mid-Range / Standard
+Pune,Baner,Apartment,2,2,646,Unfurnished,10,3,20500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 15,Apartment,2,1,842,Semi-Furnished,20,6,21000,Mid-Range,0,Budget / Compact
+Pune,Hinjewadi,Apartment,4,4,1444,Semi-Furnished,16,0,54000,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Independent House,4,4,1684,Semi-Furnished,2,5,53500,Premium,1,Mid-Range / Standard
+Mumbai,Powai,Villa,3,2,1353,Semi-Furnished,2,1,130500,Premium,1,Mid-Range / Standard
+Pune,Wakad,Apartment,1,1,386,Furnished,15,3,14000,Affordable,0,Budget / Compact
+Mohali,Kharar Road,Apartment,1,1,318,Furnished,11,4,10000,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,PG/Studio,1,1,234,Semi-Furnished,1,9,3500,Affordable,0,Budget / Compact
+Delhi,Dwarka,Apartment,1,1,339,Furnished,9,10,19000,Affordable,0,Budget / Compact
+Jaipur,C-Scheme,PG/Studio,1,1,140,Semi-Furnished,2,0,3000,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,2,2,792,Furnished,15,2,27000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 17,Villa,6,6,2880,Semi-Furnished,2,7,153500,Premium,2,Premium / Spacious
+Jaipur,Vaishali Nagar,Villa,4,4,2056,Unfurnished,2,5,54500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,Apartment,1,1,388,Semi-Furnished,20,10,9500,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,Villa,3,3,1365,Unfurnished,2,8,75000,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,3,2,1158,Unfurnished,6,10,19000,Affordable,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Independent House,4,3,1904,Semi-Furnished,1,1,39000,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,PG/Studio,1,1,253,Semi-Furnished,3,6,6000,Affordable,0,Budget / Compact
+Hyderabad,Kukatpally,Villa,3,3,1500,Semi-Furnished,2,2,65000,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,Independent House,3,3,1236,Semi-Furnished,0,1,19500,Affordable,1,Mid-Range / Standard
+Pune,Kothrud,Apartment,2,1,670,Furnished,4,8,30000,Mid-Range,0,Budget / Compact
+Jaipur,Malviya Nagar,Independent House,3,2,1116,Semi-Furnished,0,10,26000,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,Apartment,1,1,375,Unfurnished,3,1,8000,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Apartment,2,1,754,Semi-Furnished,10,9,19000,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,PG/Studio,1,1,278,Unfurnished,2,0,10000,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Independent House,5,5,2060,Semi-Furnished,0,10,52000,Premium,1,Mid-Range / Standard
+Mumbai,Andheri West,Apartment,4,3,1408,Furnished,19,1,127000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 7,Villa,5,4,3030,Furnished,1,8,124500,Premium,2,Premium / Spacious
+Mohali,Sector 71,PG/Studio,1,1,213,Semi-Furnished,3,5,5000,Affordable,0,Budget / Compact
+Panchkula,Sector 20,Apartment,2,2,724,Unfurnished,3,3,16000,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,Apartment,2,2,646,Furnished,14,3,33500,Mid-Range,0,Budget / Compact
+Jaipur,Vaishali Nagar,Apartment,2,1,740,Semi-Furnished,20,2,14500,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Apartment,3,3,969,Semi-Furnished,15,2,31000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Apartment,3,3,1185,Furnished,12,7,23000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 70,Independent House,5,4,2085,Furnished,2,8,70000,Premium,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,3,3,1140,Semi-Furnished,3,0,38000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,Villa,5,4,3170,Semi-Furnished,2,5,343000,Premium,2,Premium / Spacious
+Jaipur,Malviya Nagar,Apartment,3,2,933,Semi-Furnished,10,10,20500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Kukatpally,PG/Studio,1,1,180,Unfurnished,3,8,4500,Affordable,0,Budget / Compact
+Mumbai,Powai,Apartment,4,3,1276,Semi-Furnished,1,8,107000,Premium,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,PG/Studio,1,1,220,Semi-Furnished,1,8,8500,Affordable,0,Budget / Compact
+Pune,Baner,Independent House,5,5,2465,Furnished,1,9,91500,Premium,2,Premium / Spacious
+Pune,Kothrud,Independent House,4,4,1728,Furnished,0,4,63500,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,1,1,339,Furnished,10,5,6000,Affordable,0,Budget / Compact
+Mohali,Sector 70,Apartment,4,4,1604,Furnished,17,1,46000,Premium,1,Mid-Range / Standard
+Mohali,Sector 82,Apartment,3,3,1251,Unfurnished,18,4,30500,Mid-Range,1,Mid-Range / Standard
+Mohali,Kharar Road,PG/Studio,1,1,155,Unfurnished,1,7,3500,Affordable,0,Budget / Compact
+Mohali,Sector 70,Independent House,5,5,2355,Furnished,2,2,77000,Premium,2,Premium / Spacious
+Chandigarh,Manimajra,Villa,6,5,3720,Unfurnished,2,9,160500,Premium,2,Premium / Spacious
+Mohali,Sector 70,Apartment,3,2,1191,Furnished,11,4,33000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 70,Apartment,1,1,313,Semi-Furnished,14,10,9000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,1,1,415,Semi-Furnished,9,4,12000,Affordable,0,Budget / Compact
+Mohali,Sector 71,Apartment,4,4,1484,Semi-Furnished,16,7,42000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 7,Apartment,2,1,750,Semi-Furnished,11,4,18500,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,3,3,1257,Unfurnished,9,5,19000,Affordable,1,Mid-Range / Standard
+Mohali,Sector 71,Apartment,4,3,1520,Semi-Furnished,8,1,34500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,3,3,1260,Semi-Furnished,0,4,56500,Premium,1,Mid-Range / Standard
+Mohali,Phase 5,Independent House,4,3,1448,Semi-Furnished,1,6,51000,Premium,1,Mid-Range / Standard
+Mumbai,Navi Mumbai,PG/Studio,1,1,273,Semi-Furnished,2,2,18000,Affordable,0,Budget / Compact
+Hyderabad,Kukatpally,Apartment,4,4,1220,Furnished,2,0,43500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 22,Apartment,2,2,644,Furnished,15,9,23000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,4,4,1568,Unfurnished,3,6,38000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Navi Mumbai,PG/Studio,1,1,201,Semi-Furnished,3,8,12500,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,Independent House,3,2,1200,Semi-Furnished,0,2,53500,Premium,1,Mid-Range / Standard
+Bengaluru,Koramangala,Villa,6,5,3888,Furnished,2,4,278500,Premium,2,Premium / Spacious
+Lucknow,Indira Nagar,Apartment,2,1,686,Semi-Furnished,1,5,13000,Affordable,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,1,1,418,Unfurnished,19,2,6500,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Apartment,3,3,903,Furnished,1,2,41000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,Independent House,5,5,2325,Semi-Furnished,1,8,205000,Premium,2,Premium / Spacious
+Mumbai,Navi Mumbai,Apartment,4,3,1476,Semi-Furnished,16,9,119500,Premium,1,Mid-Range / Standard
+Delhi,Saket,PG/Studio,1,1,189,Semi-Furnished,1,9,7000,Affordable,0,Budget / Compact
+Mumbai,Andheri West,PG/Studio,1,1,192,Unfurnished,2,6,12500,Affordable,0,Budget / Compact
+Delhi,Dwarka,Apartment,3,3,1263,Semi-Furnished,14,1,51000,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Independent House,3,2,1287,Semi-Furnished,1,10,51500,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,PG/Studio,1,1,213,Furnished,2,6,3500,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Independent House,2,1,944,Semi-Furnished,1,6,37000,Mid-Range,0,Budget / Compact
+Mohali,Kharar Road,Apartment,4,3,1584,Semi-Furnished,20,5,38000,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,Apartment,4,3,1656,Furnished,20,5,54000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,Apartment,1,1,372,Furnished,11,4,14500,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,2,1,696,Furnished,2,7,27000,Mid-Range,0,Budget / Compact
+Chandigarh,Manimajra,Independent House,3,3,1410,Unfurnished,1,5,41500,Mid-Range,1,Mid-Range / Standard
+Pune,Kothrud,Apartment,1,1,334,Semi-Furnished,14,0,10500,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,2,2,822,Furnished,11,9,29000,Mid-Range,0,Budget / Compact
+Delhi,Saket,Apartment,2,1,744,Unfurnished,18,2,29000,Mid-Range,0,Budget / Compact
+Noida,Sector 18,Villa,5,5,3250,Semi-Furnished,1,5,150500,Premium,2,Premium / Spacious
+Gurugram,DLF Phase 3,Apartment,1,1,308,Unfurnished,7,3,12000,Affordable,0,Budget / Compact
+Noida,Sector 75,Apartment,2,1,832,Semi-Furnished,20,8,27000,Mid-Range,0,Budget / Compact
+Gurugram,Sohna Road,Apartment,3,2,1026,Semi-Furnished,18,10,51500,Premium,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,3,3,1233,Unfurnished,5,3,51000,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,PG/Studio,1,1,267,Unfurnished,1,8,4000,Affordable,0,Budget / Compact
+Delhi,Dwarka,Independent House,3,2,1482,Semi-Furnished,2,1,54500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,Apartment,1,1,306,Semi-Furnished,5,0,9500,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,4,4,1256,Semi-Furnished,10,9,37500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Electronic City,Apartment,2,2,660,Unfurnished,8,0,22000,Mid-Range,0,Budget / Compact
+Mohali,Sector 70,Apartment,2,2,728,Semi-Furnished,0,6,17500,Affordable,0,Budget / Compact
+Hyderabad,Kukatpally,Apartment,2,1,756,Semi-Furnished,5,5,26500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,PG/Studio,1,1,207,Semi-Furnished,0,9,8000,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,1,1,302,Unfurnished,19,0,11500,Affordable,0,Budget / Compact
+Mohali,Sector 70,Independent House,3,2,1158,Semi-Furnished,0,7,33500,Mid-Range,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Independent House,5,4,2095,Furnished,0,8,52500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 7,Apartment,4,3,1516,Semi-Furnished,19,8,41500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Independent House,5,4,1970,Semi-Furnished,0,4,70500,Premium,1,Mid-Range / Standard
+Bengaluru,Electronic City,PG/Studio,1,1,177,Unfurnished,0,6,6000,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,4,3,1464,Unfurnished,2,10,62500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 35,Apartment,3,3,1125,Semi-Furnished,18,9,37500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 20,Apartment,2,2,754,Semi-Furnished,2,10,18500,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,3,2,1233,Semi-Furnished,18,2,23000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Powai,Independent House,4,3,1836,Furnished,2,7,174000,Premium,2,Premium / Spacious
+Lucknow,Aliganj,Apartment,3,3,912,Semi-Furnished,16,5,16000,Affordable,1,Mid-Range / Standard
+Panchkula,Sector 7,PG/Studio,1,1,275,Semi-Furnished,0,2,5000,Affordable,0,Budget / Compact
+Pune,Baner,Apartment,2,1,734,Furnished,1,5,29500,Mid-Range,0,Budget / Compact
+Hyderabad,Madhapur,PG/Studio,1,1,138,Furnished,2,9,4500,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Independent House,3,2,1059,Semi-Furnished,0,8,38000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,2,1,690,Semi-Furnished,12,6,31000,Mid-Range,0,Budget / Compact
+Mumbai,Navi Mumbai,Apartment,1,1,325,Semi-Furnished,7,8,26000,Mid-Range,0,Budget / Compact
+Mohali,Sector 71,Apartment,3,2,909,Unfurnished,20,2,21500,Mid-Range,1,Mid-Range / Standard
+Pune,Baner,Apartment,2,2,652,Semi-Furnished,20,0,21000,Mid-Range,0,Budget / Compact
+Noida,Sector 62,Apartment,1,1,311,Semi-Furnished,20,7,9000,Affordable,0,Budget / Compact
+Panchkula,Sector 20,Apartment,2,1,800,Furnished,6,1,19500,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,4,3,842,Semi-Furnished,2,3,20000,Affordable,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Independent House,3,3,1293,Unfurnished,1,4,43000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 71,Independent House,4,3,1844,Semi-Furnished,0,4,51500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,Apartment,3,3,1269,Furnished,8,7,49000,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,Apartment,4,4,1540,Unfurnished,8,4,38000,Mid-Range,1,Mid-Range / Standard
+Mohali,Kharar Road,PG/Studio,1,1,255,Semi-Furnished,1,7,5500,Affordable,0,Budget / Compact
+Panchkula,Sector 20,PG/Studio,1,1,149,Furnished,0,9,3500,Affordable,0,Budget / Compact
+Delhi,Saket,Apartment,2,2,740,Unfurnished,17,3,29000,Mid-Range,0,Budget / Compact
+Mohali,Sector 70,PG/Studio,1,1,207,Semi-Furnished,0,1,4000,Affordable,0,Budget / Compact
+Mohali,Sector 71,Apartment,2,1,630,Semi-Furnished,3,10,18500,Affordable,0,Budget / Compact
+Pune,Baner,Apartment,2,1,842,Furnished,3,10,23500,Mid-Range,0,Budget / Compact
+Gurugram,Sector 56,Apartment,4,4,1680,Unfurnished,14,10,69500,Premium,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Villa,5,4,2890,Furnished,2,2,193500,Premium,2,Premium / Spacious
+Delhi,Lajpat Nagar,Apartment,3,3,1290,Unfurnished,5,4,47500,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Independent House,2,2,850,Semi-Furnished,1,10,27500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,Independent House,4,4,1760,Furnished,0,5,91000,Premium,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Villa,5,4,2835,Furnished,0,4,201500,Premium,2,Premium / Spacious
+Hyderabad,Kukatpally,Apartment,2,2,848,Furnished,15,4,33000,Mid-Range,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,3,3,1182,Semi-Furnished,19,4,51000,Premium,1,Mid-Range / Standard
+Bengaluru,Whitefield,Apartment,2,2,632,Semi-Furnished,17,1,27000,Mid-Range,0,Budget / Compact
+Pune,Kothrud,Apartment,1,1,405,Furnished,4,8,14500,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,Apartment,4,4,1344,Unfurnished,16,3,24500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,1,1,371,Semi-Furnished,14,10,16500,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,Apartment,3,3,1281,Semi-Furnished,10,5,52000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,Independent House,5,5,2020,Furnished,1,10,81500,Premium,2,Premium / Spacious
+Jaipur,Mansarovar,Apartment,2,2,764,Unfurnished,17,4,14500,Affordable,0,Budget / Compact
+Jaipur,Vaishali Nagar,PG/Studio,1,1,272,Furnished,0,8,5500,Affordable,0,Budget / Compact
+Mohali,Phase 5,Apartment,3,2,993,Unfurnished,12,3,24000,Mid-Range,1,Mid-Range / Standard
+Delhi,Rohini,Apartment,2,2,772,Unfurnished,17,9,31000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 22,Villa,3,3,1854,Furnished,0,4,101500,Premium,1,Mid-Range / Standard
+Mohali,Phase 5,Apartment,4,4,1692,Semi-Furnished,3,4,41500,Mid-Range,1,Mid-Range / Standard
+Delhi,Janakpuri,Apartment,4,3,1272,Unfurnished,12,5,47000,Premium,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Villa,3,3,1695,Semi-Furnished,0,4,48000,Premium,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,Independent House,2,1,998,Semi-Furnished,0,1,43500,Mid-Range,0,Budget / Compact
+Mohali,Sector 70,Apartment,4,4,1352,Unfurnished,9,4,32500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Madhapur,Villa,5,4,3085,Semi-Furnished,2,4,159500,Premium,2,Premium / Spacious
+Delhi,Dwarka,Apartment,2,2,616,Unfurnished,10,0,21500,Mid-Range,0,Budget / Compact
+Noida,Sector 62,Independent House,2,2,924,Unfurnished,2,1,23000,Mid-Range,0,Budget / Compact
+Delhi,Janakpuri,Apartment,2,2,814,Semi-Furnished,0,6,33500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,Apartment,4,3,1480,Semi-Furnished,15,5,55500,Premium,1,Mid-Range / Standard
+Pune,Hinjewadi,Villa,6,6,2838,Unfurnished,2,1,124500,Premium,2,Premium / Spacious
+Panchkula,Sector 5,PG/Studio,1,1,192,Semi-Furnished,3,1,4000,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,PG/Studio,1,1,292,Furnished,3,4,5000,Affordable,0,Budget / Compact
+Panchkula,Sector 20,Apartment,3,3,999,Semi-Furnished,15,6,28500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,3,2,918,Semi-Furnished,19,6,40000,Mid-Range,1,Mid-Range / Standard
+Delhi,Rohini,Villa,6,6,3120,Unfurnished,1,4,172500,Premium,2,Premium / Spacious
+Mohali,Sector 71,Independent House,4,4,1808,Unfurnished,2,0,42500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 7,Apartment,3,3,1230,Semi-Furnished,18,5,30500,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 62,Apartment,2,2,752,Semi-Furnished,9,0,20500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 20,Apartment,1,1,368,Furnished,3,1,9000,Affordable,0,Budget / Compact
+Gurugram,Sector 56,Apartment,3,3,1038,Semi-Furnished,7,4,44000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 5,Apartment,4,4,1592,Semi-Furnished,2,1,33000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 7,Villa,3,2,1842,Furnished,2,4,76000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 17,PG/Studio,1,1,178,Furnished,0,6,5500,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Apartment,3,2,1092,Semi-Furnished,6,8,35000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sector 56,Apartment,1,1,328,Furnished,4,1,14500,Affordable,0,Budget / Compact
+Mumbai,Powai,Apartment,2,1,842,Furnished,16,8,66000,Premium,0,Budget / Compact
+Lucknow,Aliganj,Apartment,2,2,852,Semi-Furnished,11,5,14500,Affordable,0,Budget / Compact
+Gurugram,Sector 56,Apartment,1,1,349,Unfurnished,11,5,14000,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,Independent House,2,1,928,Furnished,2,2,48000,Premium,0,Budget / Compact
+Panchkula,Sector 15,Independent House,5,4,1785,Semi-Furnished,1,1,42000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Aliganj,Apartment,1,1,422,Unfurnished,14,6,7500,Affordable,0,Budget / Compact
+Mohali,Kharar Road,Apartment,1,1,361,Furnished,9,10,11500,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Independent House,3,2,1074,Furnished,0,1,45500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 15,PG/Studio,1,1,133,Furnished,3,9,3000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Apartment,4,4,1260,Semi-Furnished,2,8,30000,Mid-Range,1,Mid-Range / Standard
+Pune,Baner,Independent House,5,5,2070,Semi-Furnished,2,1,73000,Premium,2,Premium / Spacious
+Mohali,Sector 71,Apartment,4,3,1568,Unfurnished,6,9,39500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Thane West,Independent House,4,3,1496,Semi-Furnished,1,8,128500,Premium,1,Mid-Range / Standard
+Pune,Wakad,Apartment,2,2,844,Unfurnished,4,1,21000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 5,PG/Studio,1,1,155,Furnished,1,4,4000,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,PG/Studio,1,1,237,Semi-Furnished,3,6,4000,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,4,3,1360,Unfurnished,19,9,58000,Premium,1,Mid-Range / Standard
+Chandigarh,Manimajra,Apartment,3,2,1110,Semi-Furnished,1,7,35500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,PG/Studio,1,1,131,Unfurnished,1,3,4500,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Apartment,3,2,1239,Furnished,2,1,33000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,4,4,1680,Semi-Furnished,16,6,31000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 7,Independent House,5,5,2110,Semi-Furnished,1,3,53500,Premium,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Apartment,1,1,374,Furnished,16,4,21000,Mid-Range,0,Budget / Compact
+Mohali,Sector 70,Apartment,4,3,1304,Unfurnished,5,5,31000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Navi Mumbai,Apartment,4,4,1492,Unfurnished,1,1,92000,Premium,1,Mid-Range / Standard
+Mohali,Phase 5,PG/Studio,1,1,167,Semi-Furnished,2,8,4000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,PG/Studio,1,1,231,Semi-Furnished,2,10,5000,Affordable,0,Budget / Compact
+Noida,Sector 62,Apartment,3,3,1269,Furnished,17,5,45000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,Independent House,3,3,1128,Unfurnished,2,4,86000,Premium,1,Mid-Range / Standard
+Jaipur,Malviya Nagar,PG/Studio,1,1,258,Unfurnished,0,6,4000,Affordable,0,Budget / Compact
+Noida,Sector 62,Apartment,3,3,842,Semi-Furnished,20,5,31000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Gomti Nagar,Independent House,2,1,768,Unfurnished,2,6,14500,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,4,3,842,Semi-Furnished,1,9,27500,Mid-Range,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Independent House,2,1,958,Semi-Furnished,2,4,21000,Mid-Range,0,Budget / Compact
+Pune,Baner,Apartment,4,3,1512,Semi-Furnished,8,8,47500,Premium,1,Mid-Range / Standard
+Pune,Hinjewadi,Apartment,4,4,1492,Unfurnished,2,10,50000,Premium,1,Mid-Range / Standard
+Gurugram,Sector 56,Apartment,1,1,415,Furnished,15,9,23500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 7,Apartment,2,2,700,Unfurnished,5,3,14000,Affordable,0,Budget / Compact
+Hyderabad,Kukatpally,Apartment,2,1,726,Furnished,5,1,24000,Mid-Range,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,4,4,1376,Semi-Furnished,7,1,44000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Koramangala,Villa,3,3,1539,Unfurnished,0,0,83000,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Apartment,2,2,740,Semi-Furnished,16,10,24000,Mid-Range,0,Budget / Compact
+Chandigarh,Manimajra,PG/Studio,1,1,205,Furnished,2,9,7000,Affordable,0,Budget / Compact
+Jaipur,Vaishali Nagar,Apartment,2,1,786,Semi-Furnished,0,5,15500,Affordable,0,Budget / Compact
+Noida,Sector 18,Independent House,4,4,1904,Unfurnished,2,2,49000,Premium,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,PG/Studio,1,1,300,Semi-Furnished,0,9,9000,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,Independent House,4,4,1964,Semi-Furnished,1,6,90500,Premium,1,Mid-Range / Standard
+Delhi,Rohini,Apartment,1,1,382,Furnished,19,4,18000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Apartment,1,1,406,Furnished,20,8,20000,Affordable,0,Budget / Compact
+Mohali,Kharar Road,Apartment,4,4,1700,Unfurnished,5,10,44000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,4,3,1604,Semi-Furnished,12,8,27000,Mid-Range,1,Mid-Range / Standard
+Jaipur,Mansarovar,Independent House,2,1,808,Unfurnished,2,0,14500,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,Apartment,1,1,351,Semi-Furnished,7,2,13000,Affordable,0,Budget / Compact
+Panchkula,Sector 15,Apartment,2,1,794,Semi-Furnished,18,7,21000,Mid-Range,0,Budget / Compact
+Mohali,Phase 5,Apartment,1,1,420,Furnished,1,0,12500,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,2,2,644,Unfurnished,3,5,19000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Villa,5,5,2515,Unfurnished,1,3,74500,Premium,2,Premium / Spacious
+Mohali,Phase 5,Apartment,2,1,704,Unfurnished,17,4,17500,Affordable,0,Budget / Compact
+Hyderabad,Kukatpally,Villa,3,2,1476,Furnished,1,2,86000,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,PG/Studio,1,1,129,Semi-Furnished,2,3,3000,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Villa,3,2,1914,Semi-Furnished,0,0,85000,Premium,1,Mid-Range / Standard
+Delhi,Saket,Apartment,3,3,1128,Furnished,18,10,63500,Premium,1,Mid-Range / Standard
+Jaipur,C-Scheme,Independent House,4,3,1552,Furnished,1,2,32500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 44,PG/Studio,1,1,148,Semi-Furnished,3,3,4500,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Apartment,4,3,1512,Unfurnished,8,9,44500,Mid-Range,1,Mid-Range / Standard
+Pune,Kothrud,PG/Studio,1,1,206,Semi-Furnished,3,2,5000,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Independent House,4,3,1448,Unfurnished,2,0,55000,Premium,1,Mid-Range / Standard
+Delhi,Saket,Apartment,2,2,614,Furnished,10,8,30000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 35,Apartment,4,3,1388,Furnished,15,2,50500,Premium,1,Mid-Range / Standard
+Delhi,Rohini,Apartment,2,2,804,Unfurnished,16,4,28500,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 35,Independent House,4,3,1624,Semi-Furnished,2,5,55500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,Apartment,1,1,842,Semi-Furnished,17,5,15000,Affordable,0,Budget / Compact
+Mumbai,Powai,PG/Studio,1,1,295,Semi-Furnished,2,10,21500,Mid-Range,0,Budget / Compact
+Delhi,Rohini,Apartment,1,1,315,Furnished,7,0,14000,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Independent House,5,5,1810,Furnished,2,6,74000,Premium,1,Mid-Range / Standard
+Noida,Sector 18,Independent House,3,3,1251,Semi-Furnished,2,0,37000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 7,Apartment,2,1,796,Semi-Furnished,5,9,20500,Mid-Range,0,Budget / Compact
+Pune,Baner,Apartment,4,4,1600,Unfurnished,4,4,44500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Koramangala,Independent House,3,3,1161,Semi-Furnished,0,6,59000,Premium,1,Mid-Range / Standard
+Mohali,Sector 82,Apartment,2,1,780,Semi-Furnished,12,6,19500,Affordable,0,Budget / Compact
+Chandigarh,Sector 17,Apartment,2,2,860,Furnished,4,4,30500,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,3,2,1095,Furnished,1,10,43000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 18,Independent House,4,4,1472,Semi-Furnished,0,5,45000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sector 56,Apartment,4,4,1704,Unfurnished,10,4,60000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 15,Apartment,1,1,348,Unfurnished,16,8,8000,Affordable,0,Budget / Compact
+Lucknow,Gomti Nagar,PG/Studio,1,1,294,Semi-Furnished,0,2,4500,Affordable,0,Budget / Compact
+Delhi,Rohini,Villa,4,4,1920,Semi-Furnished,0,9,121500,Premium,2,Premium / Spacious
+Noida,Sector 75,PG/Studio,1,1,266,Unfurnished,0,3,6500,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,PG/Studio,1,1,212,Semi-Furnished,0,10,8500,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,PG/Studio,1,1,178,Semi-Furnished,0,7,7000,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,PG/Studio,1,1,199,Furnished,1,10,7500,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,3,2,1113,Semi-Furnished,1,6,19000,Affordable,1,Mid-Range / Standard
+Pune,Wakad,Apartment,3,2,1065,Unfurnished,6,1,27000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,1,1,399,Semi-Furnished,20,10,6500,Affordable,0,Budget / Compact
+Delhi,Rohini,Apartment,3,3,1170,Semi-Furnished,1,0,44000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Manimajra,Apartment,3,3,1137,Semi-Furnished,4,4,38500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 44,Apartment,4,3,1484,Semi-Furnished,3,9,50500,Premium,1,Mid-Range / Standard
+Jaipur,Malviya Nagar,Independent House,2,1,918,Furnished,0,9,24000,Mid-Range,0,Budget / Compact
+Noida,Sector 75,Apartment,2,1,792,Semi-Furnished,4,0,22000,Mid-Range,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,3,2,842,Furnished,5,5,59000,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,1,1,381,Unfurnished,12,2,10500,Affordable,0,Budget / Compact
+Mumbai,Thane West,Apartment,1,1,323,Furnished,2,4,28500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 15,PG/Studio,1,1,123,Unfurnished,2,10,3000,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,PG/Studio,1,1,162,Semi-Furnished,3,8,5000,Affordable,0,Budget / Compact
+Chandigarh,Sector 17,Independent House,4,3,1688,Unfurnished,1,6,49000,Premium,1,Mid-Range / Standard
+Bengaluru,Koramangala,Independent House,2,2,956,Semi-Furnished,1,5,41000,Mid-Range,0,Budget / Compact
+Delhi,Dwarka,Apartment,3,3,842,Semi-Furnished,3,2,48000,Premium,1,Mid-Range / Standard
+Mumbai,Borivali,Apartment,4,4,1648,Furnished,13,8,145500,Premium,2,Premium / Spacious
+Panchkula,Sector 20,Apartment,4,3,1248,Unfurnished,14,10,26000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,2,2,618,Furnished,8,1,25000,Mid-Range,0,Budget / Compact
+Delhi,Dwarka,Apartment,4,4,1364,Furnished,17,4,65500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,PG/Studio,1,1,244,Unfurnished,1,2,4500,Affordable,0,Budget / Compact
+Mohali,Sector 70,Apartment,1,1,359,Semi-Furnished,2,4,9000,Affordable,0,Budget / Compact
+Delhi,Rohini,Apartment,3,3,1140,Semi-Furnished,6,8,49500,Premium,1,Mid-Range / Standard
+Mohali,Phase 5,Apartment,1,1,342,Semi-Furnished,8,8,9000,Affordable,0,Budget / Compact
+Panchkula,Sector 15,Apartment,3,3,1101,Semi-Furnished,15,8,29000,Mid-Range,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,4,4,1712,Unfurnished,12,8,43000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,PG/Studio,1,1,297,Unfurnished,3,4,18500,Affordable,0,Budget / Compact
+Noida,Sector 18,Apartment,1,1,312,Semi-Furnished,20,0,10000,Affordable,0,Budget / Compact
+Mumbai,Powai,Apartment,1,1,428,Unfurnished,6,2,31000,Mid-Range,0,Budget / Compact
+Chandigarh,Manimajra,Apartment,2,1,612,Furnished,1,4,22000,Mid-Range,0,Budget / Compact
+Lucknow,Aliganj,Apartment,4,3,1464,Semi-Furnished,15,5,21000,Mid-Range,1,Mid-Range / Standard
+Delhi,Janakpuri,Apartment,2,2,838,Semi-Furnished,20,2,34500,Mid-Range,0,Budget / Compact
+Gurugram,Sector 56,Apartment,3,3,1167,Semi-Furnished,9,4,53500,Premium,1,Mid-Range / Standard
+Delhi,Saket,Independent House,3,2,1257,Furnished,1,3,65500,Premium,1,Mid-Range / Standard
+Delhi,Rohini,PG/Studio,1,1,197,Unfurnished,1,6,7000,Affordable,0,Budget / Compact
+Noida,Sector 75,Independent House,2,2,802,Furnished,0,8,28000,Mid-Range,0,Budget / Compact
+Mohali,Sector 82,Independent House,4,4,1996,Unfurnished,1,1,47500,Premium,1,Mid-Range / Standard
+Mumbai,Borivali,Independent House,2,2,804,Unfurnished,0,10,61000,Premium,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,2,2,670,Unfurnished,17,3,10500,Affordable,0,Budget / Compact
+Panchkula,Sector 20,Apartment,2,2,688,Unfurnished,6,0,13000,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,PG/Studio,1,1,183,Semi-Furnished,3,8,6500,Affordable,0,Budget / Compact
+Mumbai,Andheri West,Villa,6,6,3582,Semi-Furnished,2,9,422500,Premium,2,Premium / Spacious
+Bengaluru,Electronic City,Apartment,1,1,421,Furnished,10,4,18000,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,3,2,1161,Semi-Furnished,16,8,38000,Mid-Range,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Apartment,4,4,842,Semi-Furnished,17,5,66000,Premium,1,Mid-Range / Standard
+Delhi,Janakpuri,PG/Studio,1,1,196,Furnished,0,2,8500,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,1,1,354,Semi-Furnished,9,0,12500,Affordable,0,Budget / Compact
+Mohali,Sector 82,Apartment,3,2,1089,Furnished,17,2,32000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 75,Villa,3,2,1434,Unfurnished,2,2,60000,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,PG/Studio,1,1,167,Semi-Furnished,3,1,4500,Affordable,0,Budget / Compact
+Delhi,Dwarka,Independent House,2,2,946,Semi-Furnished,0,3,43000,Mid-Range,0,Budget / Compact
+Delhi,Rohini,PG/Studio,1,1,212,Unfurnished,1,9,5000,Affordable,0,Budget / Compact
+Mohali,Phase 5,Independent House,3,3,1248,Unfurnished,1,7,33500,Mid-Range,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,4,3,1600,Unfurnished,19,0,22000,Mid-Range,1,Mid-Range / Standard
+Pune,Baner,Apartment,2,2,692,Semi-Furnished,14,3,23000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 7,Independent House,3,2,1326,Semi-Furnished,0,0,36000,Mid-Range,1,Mid-Range / Standard
+Pune,Wakad,Apartment,4,3,1696,Furnished,18,5,64500,Premium,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,2,1,722,Semi-Furnished,6,0,18000,Affordable,0,Budget / Compact
+Pune,Kothrud,Apartment,3,2,1002,Semi-Furnished,6,2,30500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,4,4,1348,Semi-Furnished,12,10,61500,Premium,1,Mid-Range / Standard
+Jaipur,C-Scheme,Apartment,3,2,842,Furnished,20,8,29000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 137,Apartment,3,3,1176,Furnished,15,5,39000,Mid-Range,1,Mid-Range / Standard
+Pune,Wakad,Independent House,3,2,1389,Furnished,1,0,53500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,PG/Studio,1,1,159,Semi-Furnished,3,7,4500,Affordable,0,Budget / Compact
+Jaipur,Vaishali Nagar,Independent House,3,3,1448,Furnished,2,7,27000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Madhapur,PG/Studio,1,1,172,Semi-Furnished,0,7,5500,Affordable,0,Budget / Compact
+Pune,Kothrud,Apartment,1,1,395,Unfurnished,12,10,11500,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,Apartment,4,3,1324,Semi-Furnished,10,4,56000,Premium,1,Mid-Range / Standard
+Mumbai,Thane West,Independent House,4,3,1940,Unfurnished,1,4,140000,Premium,2,Premium / Spacious
+Gurugram,Sohna Road,Apartment,2,2,670,Semi-Furnished,3,8,29000,Mid-Range,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,1,1,352,Unfurnished,15,5,6000,Affordable,0,Budget / Compact
+Lucknow,Gomti Nagar,Independent House,2,1,826,Semi-Furnished,1,6,16500,Affordable,0,Budget / Compact
+Delhi,Dwarka,Apartment,1,1,390,Semi-Furnished,4,6,14500,Affordable,0,Budget / Compact
+Mumbai,Powai,Apartment,1,1,367,Furnished,15,3,34000,Mid-Range,0,Budget / Compact
+Lucknow,Aliganj,Villa,3,3,1401,Unfurnished,0,5,27000,Mid-Range,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Apartment,3,2,1011,Semi-Furnished,16,5,22000,Mid-Range,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Villa,6,6,2760,Furnished,0,1,197000,Premium,2,Premium / Spacious
+Pune,Baner,Apartment,2,2,616,Semi-Furnished,7,5,21500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,Apartment,4,4,1388,Furnished,0,2,62500,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Villa,5,5,2345,Unfurnished,0,1,93500,Premium,2,Premium / Spacious
+Chandigarh,Sector 22,Apartment,4,4,1492,Furnished,0,6,54500,Premium,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Apartment,2,1,744,Furnished,12,7,39500,Mid-Range,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,4,3,1476,Semi-Furnished,11,3,52500,Premium,1,Mid-Range / Standard
+Mumbai,Borivali,PG/Studio,1,1,210,Semi-Furnished,1,10,16000,Affordable,0,Budget / Compact
+Noida,Sector 137,Apartment,1,1,317,Unfurnished,1,10,9000,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Apartment,1,1,417,Unfurnished,19,0,12000,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,Villa,6,5,3774,Semi-Furnished,2,6,242000,Premium,2,Premium / Spacious
+Panchkula,Sector 7,Independent House,2,2,900,Furnished,1,4,27500,Mid-Range,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,1,1,344,Unfurnished,10,6,5500,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,Independent House,3,2,1347,Semi-Furnished,1,3,26500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Apartment,1,1,410,Semi-Furnished,11,9,13500,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,Apartment,1,1,396,Semi-Furnished,18,10,18500,Affordable,0,Budget / Compact
+Pune,Wakad,PG/Studio,1,1,200,Semi-Furnished,0,7,6500,Affordable,0,Budget / Compact
+Delhi,Dwarka,Apartment,2,2,650,Furnished,3,4,33500,Mid-Range,0,Budget / Compact
+Mumbai,Navi Mumbai,Apartment,1,1,304,Furnished,17,4,26000,Mid-Range,0,Budget / Compact
+Mumbai,Andheri West,Independent House,5,5,2470,Unfurnished,0,10,192500,Premium,2,Premium / Spacious
+Lucknow,Indira Nagar,Independent House,4,3,1788,Semi-Furnished,0,9,34000,Mid-Range,1,Mid-Range / Standard
+Pune,Wakad,PG/Studio,1,1,210,Unfurnished,3,9,6000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,4,3,1608,Semi-Furnished,13,5,48000,Premium,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,2,2,818,Unfurnished,7,10,30500,Mid-Range,0,Budget / Compact
+Mumbai,Powai,Independent House,2,1,944,Furnished,1,6,87500,Premium,0,Budget / Compact
+Lucknow,Aliganj,PG/Studio,1,1,291,Semi-Furnished,3,5,4500,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,3,2,912,Furnished,20,6,36500,Mid-Range,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,2,2,732,Semi-Furnished,0,9,31000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 7,PG/Studio,1,1,187,Semi-Furnished,1,1,3500,Affordable,0,Budget / Compact
+Mumbai,Thane West,Apartment,1,1,384,Unfurnished,15,6,28500,Mid-Range,0,Budget / Compact
+Bengaluru,Koramangala,Apartment,2,1,828,Semi-Furnished,0,6,37000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 15,Independent House,3,3,1227,Semi-Furnished,1,5,30000,Mid-Range,1,Mid-Range / Standard
+Pune,Kothrud,Independent House,2,2,892,Semi-Furnished,2,9,29500,Mid-Range,0,Budget / Compact
+Delhi,Lajpat Nagar,PG/Studio,1,1,288,Furnished,0,4,10500,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Apartment,1,1,346,Semi-Furnished,0,4,10500,Affordable,0,Budget / Compact
+Panchkula,Sector 20,Apartment,4,3,1600,Semi-Furnished,13,9,39000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 82,Apartment,4,3,1392,Furnished,8,10,45500,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,Apartment,3,3,1194,Unfurnished,10,5,19000,Affordable,1,Mid-Range / Standard
+Pune,Baner,Apartment,3,2,1017,Semi-Furnished,18,9,37000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 71,Apartment,2,1,650,Furnished,7,10,20500,Mid-Range,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,4,3,1504,Semi-Furnished,10,6,32000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sector 56,Apartment,3,3,993,Semi-Furnished,20,9,47500,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,Apartment,3,2,993,Furnished,9,2,20500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Villa,6,5,3390,Unfurnished,0,9,209000,Premium,2,Premium / Spacious
+Jaipur,C-Scheme,Independent House,5,5,1875,Semi-Furnished,2,10,43500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,4,4,1684,Semi-Furnished,4,5,70000,Premium,1,Mid-Range / Standard
+Mohali,Sector 71,Apartment,4,3,1676,Semi-Furnished,8,5,40000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,3,3,1125,Semi-Furnished,8,6,48500,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Independent House,3,3,1152,Furnished,1,5,47500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 22,Villa,5,5,3105,Semi-Furnished,0,7,164000,Premium,2,Premium / Spacious
+Delhi,Rohini,Independent House,2,2,750,Furnished,0,5,38000,Mid-Range,0,Budget / Compact
+Chandigarh,Manimajra,PG/Studio,1,1,209,Unfurnished,3,8,5500,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,PG/Studio,1,1,191,Semi-Furnished,3,7,5500,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,Independent House,2,1,840,Unfurnished,1,3,33500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 7,Apartment,4,3,1356,Furnished,5,1,33500,Mid-Range,1,Mid-Range / Standard
+Delhi,Saket,PG/Studio,1,1,193,Semi-Furnished,0,5,7000,Affordable,0,Budget / Compact
+Mumbai,Powai,Apartment,2,2,712,Furnished,3,8,64000,Premium,0,Budget / Compact
+Mohali,Sector 71,PG/Studio,1,1,282,Unfurnished,0,2,6000,Affordable,0,Budget / Compact
+Mumbai,Thane West,Apartment,2,2,808,Furnished,3,5,72000,Premium,0,Budget / Compact
+Lucknow,Gomti Nagar,Villa,5,4,2425,Semi-Furnished,0,5,56000,Premium,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Apartment,1,1,429,Furnished,10,2,14000,Affordable,0,Budget / Compact
+Mohali,Sector 70,PG/Studio,1,1,212,Furnished,3,5,5500,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Independent House,4,3,1852,Semi-Furnished,2,1,83000,Premium,1,Mid-Range / Standard
+Pune,Baner,Apartment,1,1,842,Furnished,1,3,14000,Affordable,0,Budget / Compact
+Mohali,Sector 71,Apartment,4,3,1312,Semi-Furnished,15,3,34500,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 71,Apartment,2,2,630,Semi-Furnished,16,2,15000,Affordable,0,Budget / Compact
+Gurugram,Sohna Road,Independent House,4,3,1828,Semi-Furnished,1,10,100500,Premium,1,Mid-Range / Standard
+Bengaluru,Koramangala,Independent House,2,1,998,Semi-Furnished,2,5,43500,Mid-Range,0,Budget / Compact
+Pune,Wakad,Villa,5,5,2585,Unfurnished,2,5,116000,Premium,2,Premium / Spacious
+Pune,Hinjewadi,Apartment,3,2,1029,Unfurnished,12,9,32000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 71,Independent House,5,5,2065,Semi-Furnished,0,0,55000,Premium,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Apartment,1,1,420,Semi-Furnished,15,6,13500,Affordable,0,Budget / Compact
+Chandigarh,Manimajra,Independent House,5,5,1790,Furnished,1,2,62000,Premium,1,Mid-Range / Standard
+Mohali,Sector 71,Apartment,3,2,1080,Semi-Furnished,4,3,27000,Mid-Range,1,Mid-Range / Standard
+Pune,Kothrud,Apartment,2,2,760,Semi-Furnished,0,8,23500,Mid-Range,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,2,2,754,Unfurnished,18,0,22000,Mid-Range,0,Budget / Compact
+Hyderabad,Kukatpally,Apartment,2,2,680,Furnished,17,3,24500,Mid-Range,0,Budget / Compact
+Noida,Sector 18,Apartment,1,1,397,Semi-Furnished,0,7,12500,Affordable,0,Budget / Compact
+Mumbai,Thane West,Apartment,1,1,409,Semi-Furnished,2,4,28500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 5,Independent House,5,5,2095,Unfurnished,0,10,49000,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,Apartment,2,1,686,Unfurnished,11,0,14000,Affordable,0,Budget / Compact
+Delhi,Saket,Apartment,2,2,742,Unfurnished,6,5,26000,Mid-Range,0,Budget / Compact
+Lucknow,Indira Nagar,Apartment,1,1,415,Semi-Furnished,20,6,9000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,PG/Studio,1,1,193,Semi-Furnished,0,6,7000,Affordable,0,Budget / Compact
+Noida,Sector 137,Apartment,4,4,1424,Semi-Furnished,20,4,48000,Premium,1,Mid-Range / Standard
+Pune,Hinjewadi,PG/Studio,1,1,191,Furnished,2,9,6500,Affordable,0,Budget / Compact
+Mohali,Sector 70,Apartment,3,2,1029,Furnished,3,2,30000,Mid-Range,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,PG/Studio,1,1,220,Unfurnished,0,6,6500,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Independent House,4,4,1648,Semi-Furnished,1,4,67000,Premium,1,Mid-Range / Standard
+Mumbai,Powai,Independent House,4,3,1932,Semi-Furnished,2,8,154000,Premium,2,Premium / Spacious
+Delhi,Janakpuri,Apartment,1,1,320,Furnished,20,2,14500,Affordable,0,Budget / Compact
+Pune,Kothrud,Apartment,1,1,342,Furnished,11,7,13500,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,4,3,1444,Semi-Furnished,19,5,30500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Andheri West,Apartment,3,2,1257,Furnished,3,10,121500,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,Apartment,2,1,688,Semi-Furnished,6,3,18500,Affordable,0,Budget / Compact
+Delhi,Saket,Independent House,3,2,1107,Semi-Furnished,0,5,50000,Premium,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Independent House,4,4,1768,Unfurnished,2,6,63500,Premium,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,3,3,993,Semi-Furnished,10,10,40500,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 82,Villa,6,5,2868,Semi-Furnished,0,6,101500,Premium,2,Premium / Spacious
+Hyderabad,Kukatpally,Apartment,4,4,1712,Furnished,15,7,56500,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Apartment,3,2,1053,Unfurnished,16,6,35000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Apartment,2,1,842,Semi-Furnished,10,5,28500,Mid-Range,0,Budget / Compact
+Delhi,Lajpat Nagar,Apartment,4,4,1504,Semi-Furnished,6,2,51000,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Independent House,2,2,794,Unfurnished,1,9,24000,Mid-Range,0,Budget / Compact
+Jaipur,Mansarovar,Villa,4,4,2100,Unfurnished,0,2,56500,Premium,1,Mid-Range / Standard
+Mohali,Sector 82,Independent House,5,5,1750,Semi-Furnished,0,9,49500,Premium,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,4,4,1400,Semi-Furnished,15,10,66000,Premium,1,Mid-Range / Standard
+Bengaluru,Electronic City,Apartment,1,1,416,Semi-Furnished,10,5,15000,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Independent House,3,2,1137,Unfurnished,0,2,37500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Madhapur,Apartment,1,1,415,Semi-Furnished,6,10,13000,Affordable,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,3,2,1023,Furnished,0,10,59000,Premium,1,Mid-Range / Standard
+Mohali,Kharar Road,PG/Studio,1,1,239,Semi-Furnished,1,0,5000,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Apartment,1,1,332,Furnished,13,8,14000,Affordable,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,3,2,1113,Furnished,16,1,19500,Affordable,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Apartment,4,4,1672,Semi-Furnished,0,0,30000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Aliganj,Apartment,1,1,425,Semi-Furnished,14,0,6500,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,3,3,909,Unfurnished,19,3,33000,Mid-Range,1,Mid-Range / Standard
+Pune,Wakad,Apartment,2,2,764,Semi-Furnished,3,8,25000,Mid-Range,0,Budget / Compact
+Delhi,Lajpat Nagar,Apartment,1,1,405,Unfurnished,6,4,14000,Affordable,0,Budget / Compact
+Delhi,Saket,Apartment,3,2,1170,Semi-Furnished,15,2,46500,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,Independent House,2,1,852,Unfurnished,2,9,16500,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Apartment,3,2,966,Unfurnished,9,2,28000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Independent House,4,4,1488,Unfurnished,2,2,41000,Mid-Range,1,Mid-Range / Standard
+Delhi,Rohini,Apartment,2,2,648,Unfurnished,10,9,25000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 35,PG/Studio,1,1,176,Unfurnished,0,10,5000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Independent House,2,2,728,Unfurnished,0,8,25500,Mid-Range,0,Budget / Compact
+Pune,Wakad,Independent House,4,4,1736,Unfurnished,2,7,59000,Premium,1,Mid-Range / Standard
+Bengaluru,Whitefield,Apartment,1,1,366,Unfurnished,13,8,13500,Affordable,0,Budget / Compact
+Noida,Sector 62,Apartment,1,1,423,Unfurnished,10,9,13000,Affordable,0,Budget / Compact
+Delhi,Dwarka,Apartment,1,1,372,Semi-Furnished,10,8,17000,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,Apartment,1,1,374,Furnished,19,8,19500,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,PG/Studio,1,1,273,Unfurnished,1,2,8500,Affordable,0,Budget / Compact
+Chandigarh,Manimajra,Apartment,1,1,322,Semi-Furnished,14,8,11000,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,Apartment,3,3,903,Semi-Furnished,17,9,20000,Affordable,1,Mid-Range / Standard
+Delhi,Dwarka,Independent House,5,4,1890,Semi-Furnished,0,8,89000,Premium,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,Apartment,1,1,357,Semi-Furnished,4,4,14000,Affordable,0,Budget / Compact
+Mohali,Sector 70,PG/Studio,1,1,143,Semi-Furnished,0,3,3000,Affordable,0,Budget / Compact
+Pune,Baner,Independent House,4,4,1448,Unfurnished,2,9,67500,Premium,1,Mid-Range / Standard
+Mumbai,Powai,PG/Studio,1,1,265,Furnished,1,5,21500,Mid-Range,0,Budget / Compact
+Gurugram,Sector 56,Apartment,3,2,912,Unfurnished,5,8,38000,Mid-Range,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,1,1,320,Semi-Furnished,14,0,12000,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Apartment,4,3,1600,Unfurnished,7,10,46000,Premium,1,Mid-Range / Standard
+Lucknow,Gomti Nagar,Independent House,4,3,1740,Semi-Furnished,2,5,33500,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 71,Apartment,3,3,1161,Unfurnished,9,1,25500,Mid-Range,1,Mid-Range / Standard
+Mohali,Kharar Road,Independent House,4,4,1480,Semi-Furnished,1,0,40500,Mid-Range,1,Mid-Range / Standard
+Pune,Wakad,Independent House,4,4,1696,Furnished,0,4,60500,Premium,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Apartment,2,2,634,Unfurnished,19,5,20000,Affordable,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,2,2,756,Furnished,6,8,16000,Affordable,0,Budget / Compact
+Lucknow,Aliganj,Apartment,3,3,1089,Unfurnished,1,8,16500,Affordable,1,Mid-Range / Standard
+Hyderabad,Madhapur,Apartment,4,3,1424,Furnished,16,6,59000,Premium,1,Mid-Range / Standard
+Pune,Baner,Villa,4,3,2512,Furnished,1,2,130500,Premium,2,Premium / Spacious
+Bengaluru,Koramangala,Apartment,2,2,696,Semi-Furnished,3,6,27000,Mid-Range,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,3,3,1191,Unfurnished,17,1,21000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 18,Villa,3,2,1704,Semi-Furnished,2,9,70500,Premium,1,Mid-Range / Standard
+Chandigarh,Manimajra,Apartment,1,1,326,Semi-Furnished,10,3,11500,Affordable,0,Budget / Compact
+Mumbai,Borivali,Independent House,5,5,1990,Semi-Furnished,0,9,180500,Premium,2,Premium / Spacious
+Pune,Wakad,Independent House,3,3,1197,Semi-Furnished,1,1,41500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Andheri West,PG/Studio,1,1,122,Semi-Furnished,0,7,8500,Affordable,0,Budget / Compact
+Noida,Sector 18,Apartment,4,4,1352,Furnished,20,3,50000,Premium,1,Mid-Range / Standard
+Pune,Wakad,Apartment,3,2,1167,Furnished,20,5,45500,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Independent House,2,1,772,Furnished,2,0,29500,Mid-Range,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,1,1,390,Unfurnished,10,5,7000,Affordable,0,Budget / Compact
+Jaipur,Vaishali Nagar,PG/Studio,1,1,284,Semi-Furnished,3,8,5000,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,Apartment,4,4,1544,Semi-Furnished,20,5,32500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 44,Independent House,2,1,718,Furnished,2,0,29000,Mid-Range,0,Budget / Compact
+Noida,Sector 137,Independent House,2,2,820,Semi-Furnished,1,7,27500,Mid-Range,0,Budget / Compact
+Mohali,Sector 82,Villa,6,6,3576,Semi-Furnished,1,6,153500,Premium,2,Premium / Spacious
+Mohali,Phase 5,Apartment,2,2,684,Semi-Furnished,9,3,16500,Affordable,0,Budget / Compact
+Delhi,Dwarka,Apartment,1,1,313,Semi-Furnished,18,3,13500,Affordable,0,Budget / Compact
+Delhi,Rohini,Villa,3,2,1767,Unfurnished,2,0,95000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,PG/Studio,1,1,261,Unfurnished,0,9,7000,Affordable,0,Budget / Compact
+Delhi,Saket,Villa,4,4,1804,Furnished,1,1,109000,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,Apartment,2,1,806,Semi-Furnished,20,4,28500,Mid-Range,0,Budget / Compact
+Noida,Sector 137,Independent House,4,3,1660,Furnished,2,1,63000,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Independent House,3,2,1086,Semi-Furnished,2,6,22500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,2,2,754,Furnished,20,5,30000,Mid-Range,0,Budget / Compact
+Pune,Wakad,Independent House,5,5,1448,Furnished,2,4,93500,Premium,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Apartment,3,2,1152,Semi-Furnished,20,8,22500,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,3,2,1104,Furnished,20,7,45000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 75,Villa,6,6,3432,Semi-Furnished,2,8,156500,Premium,2,Premium / Spacious
+Hyderabad,Kukatpally,Apartment,4,3,1512,Semi-Furnished,7,5,52500,Premium,1,Mid-Range / Standard
+Lucknow,Gomti Nagar,Villa,6,6,3282,Unfurnished,1,0,74000,Premium,2,Premium / Spacious
+Noida,Sector 18,Villa,5,4,2860,Unfurnished,0,6,109500,Premium,2,Premium / Spacious
+Gurugram,Sohna Road,Apartment,3,3,1248,Semi-Furnished,9,7,57500,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Apartment,4,4,1328,Semi-Furnished,17,9,40000,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,Apartment,1,1,404,Furnished,19,5,12500,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,3,2,927,Furnished,18,2,38000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Apartment,3,3,1227,Furnished,4,10,44500,Mid-Range,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,2,2,756,Unfurnished,8,9,20000,Affordable,0,Budget / Compact
+Mohali,Sector 70,Villa,5,5,3045,Furnished,1,4,123000,Premium,2,Premium / Spacious
+Jaipur,C-Scheme,Apartment,2,2,794,Furnished,16,3,17000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Apartment,2,1,610,Furnished,9,8,18000,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,2,2,668,Unfurnished,2,5,11000,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,1,1,332,Unfurnished,12,3,9000,Affordable,0,Budget / Compact
+Pune,Wakad,PG/Studio,1,1,231,Semi-Furnished,3,6,7500,Affordable,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,2,1,852,Unfurnished,10,8,33500,Mid-Range,0,Budget / Compact
+Noida,Sector 137,Independent House,4,4,1868,Semi-Furnished,2,7,60500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,PG/Studio,1,1,213,Semi-Furnished,2,5,4000,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,4,3,1336,Unfurnished,16,5,41500,Mid-Range,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,2,1,612,Semi-Furnished,14,2,17000,Affordable,0,Budget / Compact
+Gurugram,Sector 56,Apartment,4,3,1692,Unfurnished,10,3,67000,Premium,1,Mid-Range / Standard
+Jaipur,Malviya Nagar,Apartment,4,3,1416,Unfurnished,14,2,25500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 20,Independent House,5,5,2045,Unfurnished,0,4,47000,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Independent House,5,4,2020,Unfurnished,2,0,31000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,4,4,1684,Unfurnished,12,3,75500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 17,Apartment,3,3,1089,Unfurnished,1,6,29000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,3,3,1167,Unfurnished,0,6,47000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 7,Apartment,2,2,678,Unfurnished,12,0,14000,Affordable,0,Budget / Compact
+Noida,Sector 62,Independent House,2,1,998,Unfurnished,2,0,27500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 15,Apartment,4,3,842,Furnished,15,10,47500,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,Villa,6,6,3156,Furnished,2,8,92500,Premium,2,Premium / Spacious
+Mohali,Sector 82,Apartment,3,3,1233,Furnished,3,8,34500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Independent House,2,1,730,Furnished,2,10,28500,Mid-Range,0,Budget / Compact
+Pune,Wakad,Apartment,3,3,1281,Furnished,4,10,53000,Premium,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Apartment,1,1,303,Unfurnished,17,5,9000,Affordable,0,Budget / Compact
+Panchkula,Sector 20,PG/Studio,1,1,258,Unfurnished,1,9,5000,Affordable,0,Budget / Compact
+Mohali,Sector 82,Villa,4,4,2304,Unfurnished,1,3,80000,Premium,1,Mid-Range / Standard
+Chandigarh,Manimajra,Apartment,1,1,429,Unfurnished,10,3,13000,Affordable,0,Budget / Compact
+Panchkula,Sector 20,Apartment,4,4,1316,Semi-Furnished,7,7,31500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Independent House,4,3,1892,Semi-Furnished,1,5,92500,Premium,1,Mid-Range / Standard
+Bengaluru,Electronic City,PG/Studio,1,1,257,Furnished,2,0,9500,Affordable,0,Budget / Compact
+Noida,Sector 62,Apartment,3,2,1263,Unfurnished,4,10,34500,Mid-Range,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Apartment,1,1,301,Semi-Furnished,0,1,12000,Affordable,0,Budget / Compact
+Mumbai,Borivali,Villa,5,5,2665,Unfurnished,0,3,247500,Premium,2,Premium / Spacious
+Panchkula,Sector 15,Apartment,1,1,306,Semi-Furnished,3,7,7500,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,Independent House,5,4,1850,Unfurnished,2,7,77500,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Apartment,2,1,638,Furnished,14,9,24000,Mid-Range,0,Budget / Compact
+Mohali,Phase 5,Apartment,3,2,1182,Unfurnished,7,1,25500,Mid-Range,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,Apartment,3,2,1065,Semi-Furnished,13,4,47000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 35,Independent House,5,4,1780,Unfurnished,2,3,54500,Premium,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Independent House,4,3,1424,Furnished,2,5,75000,Premium,1,Mid-Range / Standard
+Mumbai,Powai,Apartment,3,3,1065,Semi-Furnished,10,9,92000,Premium,1,Mid-Range / Standard
+Gurugram,Sector 56,Villa,3,2,1437,Unfurnished,1,7,77500,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Independent House,2,1,802,Semi-Furnished,0,3,27500,Mid-Range,0,Budget / Compact
+Mumbai,Andheri West,Apartment,3,2,954,Unfurnished,7,2,70000,Premium,1,Mid-Range / Standard
+Mumbai,Navi Mumbai,Apartment,1,1,300,Unfurnished,3,8,23000,Mid-Range,0,Budget / Compact
+Noida,Sector 18,Independent House,5,5,2410,Unfurnished,1,5,67500,Premium,2,Premium / Spacious
+Mohali,Kharar Road,PG/Studio,1,1,196,Unfurnished,1,9,4000,Affordable,0,Budget / Compact
+Pune,Wakad,PG/Studio,1,1,214,Semi-Furnished,3,6,6500,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,2,1,636,Furnished,15,2,15500,Affordable,0,Budget / Compact
+Mumbai,Andheri West,PG/Studio,1,1,267,Furnished,2,6,20500,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 35,PG/Studio,1,1,171,Semi-Furnished,1,1,4500,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Independent House,4,4,1864,Furnished,1,5,104000,Premium,1,Mid-Range / Standard
+Delhi,Janakpuri,Apartment,2,1,746,Furnished,5,1,33000,Mid-Range,0,Budget / Compact
+Mohali,Sector 82,Independent House,4,3,1540,Semi-Furnished,1,0,41000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 137,Independent House,3,3,1275,Unfurnished,2,10,38000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 20,Apartment,3,3,981,Unfurnished,18,2,21500,Mid-Range,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Apartment,2,1,850,Furnished,13,1,17000,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,PG/Studio,1,1,299,Semi-Furnished,2,1,8500,Affordable,0,Budget / Compact
+Mumbai,Andheri West,Independent House,5,5,1955,Unfurnished,2,4,139500,Premium,2,Premium / Spacious
+Noida,Sector 62,Apartment,2,1,764,Semi-Furnished,20,1,25500,Mid-Range,0,Budget / Compact
+Mumbai,Andheri West,Apartment,4,4,1228,Semi-Furnished,10,10,99500,Premium,1,Mid-Range / Standard
+Pune,Wakad,Independent House,3,3,1143,Unfurnished,0,4,37000,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,PG/Studio,1,1,205,Furnished,3,5,5500,Affordable,0,Budget / Compact
+Noida,Sector 75,Apartment,2,1,662,Semi-Furnished,0,1,17000,Affordable,0,Budget / Compact
+Mohali,Sector 70,Independent House,3,2,1209,Semi-Furnished,2,5,27500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Andheri West,Apartment,2,2,706,Unfurnished,3,6,49500,Premium,0,Budget / Compact
+Panchkula,Sector 7,Apartment,2,1,748,Unfurnished,5,8,17500,Affordable,0,Budget / Compact
+Noida,Sector 137,Apartment,3,3,1284,Furnished,4,3,44500,Mid-Range,1,Mid-Range / Standard
+Delhi,Janakpuri,Independent House,4,4,1800,Semi-Furnished,1,4,99000,Premium,1,Mid-Range / Standard
+Mumbai,Borivali,Apartment,3,3,1218,Semi-Furnished,2,5,97000,Premium,1,Mid-Range / Standard
+Mumbai,Powai,Villa,6,5,3228,Unfurnished,1,7,379500,Premium,2,Premium / Spacious
+Lucknow,Indira Nagar,Apartment,2,2,688,Furnished,5,4,13000,Affordable,0,Budget / Compact
+Panchkula,Sector 15,Apartment,2,1,716,Furnished,13,2,19000,Affordable,0,Budget / Compact
+Delhi,Dwarka,Villa,4,3,2188,Unfurnished,2,7,115000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,Villa,5,4,2530,Furnished,2,9,109000,Premium,2,Premium / Spacious
+Panchkula,Sector 20,Apartment,3,3,1290,Semi-Furnished,3,0,28000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,4,4,1436,Unfurnished,3,3,36000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Whitefield,PG/Studio,1,1,212,Semi-Furnished,1,5,8000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Apartment,3,2,1200,Unfurnished,12,1,46000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,Independent House,4,3,1600,Unfurnished,2,9,40000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,2,2,836,Furnished,14,0,28500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,Apartment,3,2,1140,Semi-Furnished,17,8,51500,Premium,1,Mid-Range / Standard
+Delhi,Rohini,Independent House,3,3,1440,Semi-Furnished,2,7,68500,Premium,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Apartment,4,3,1420,Semi-Furnished,20,1,25500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,PG/Studio,1,1,235,Semi-Furnished,1,6,15000,Affordable,0,Budget / Compact
+Noida,Sector 62,Apartment,3,3,948,Furnished,10,9,35000,Mid-Range,1,Mid-Range / Standard
+Pune,Kothrud,Apartment,4,4,1216,Semi-Furnished,1,4,39500,Mid-Range,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,3,2,930,Semi-Furnished,8,2,39500,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 137,Independent House,2,1,700,Unfurnished,1,7,20500,Mid-Range,0,Budget / Compact
+Noida,Sector 18,Apartment,3,3,1104,Semi-Furnished,18,4,30000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Koramangala,Apartment,2,2,740,Furnished,13,2,29500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,Villa,4,4,1900,Furnished,1,4,134500,Premium,2,Premium / Spacious
+Bengaluru,Electronic City,Independent House,5,4,1845,Semi-Furnished,2,5,86000,Premium,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Apartment,1,1,842,Unfurnished,1,5,4500,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,Villa,6,5,3036,Unfurnished,2,1,64000,Premium,2,Premium / Spacious
+Jaipur,C-Scheme,Apartment,1,1,309,Semi-Furnished,16,1,6500,Affordable,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,3,3,924,Unfurnished,11,8,16500,Affordable,1,Mid-Range / Standard
+Bengaluru,Koramangala,Apartment,2,2,746,Semi-Furnished,11,2,31500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 7,Independent House,3,3,1131,Semi-Furnished,0,5,28500,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,Independent House,5,4,2420,Unfurnished,0,6,57500,Premium,1,Mid-Range / Standard
+Bengaluru,Koramangala,Independent House,3,3,1398,Unfurnished,2,5,68000,Premium,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Villa,5,5,2632,Semi-Furnished,2,5,232000,Premium,2,Premium / Spacious
+Noida,Sector 137,PG/Studio,1,1,176,Unfurnished,0,6,4000,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,1,1,360,Unfurnished,11,9,11500,Affordable,0,Budget / Compact
+Mumbai,Thane West,PG/Studio,1,1,287,Furnished,1,8,23500,Mid-Range,0,Budget / Compact
+Jaipur,Mansarovar,Independent House,5,5,2280,Furnished,1,4,56500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,PG/Studio,1,1,205,Furnished,1,7,6500,Affordable,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,1,1,423,Furnished,17,3,9500,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Independent House,5,4,1845,Unfurnished,0,9,31000,Mid-Range,1,Mid-Range / Standard
+Jaipur,Mansarovar,Independent House,5,5,1895,Semi-Furnished,0,0,36500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Navi Mumbai,Apartment,1,1,358,Semi-Furnished,3,3,23000,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,PG/Studio,1,1,249,Unfurnished,1,3,8000,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,Apartment,4,3,1692,Semi-Furnished,0,9,74500,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,Villa,6,5,3360,Unfurnished,0,8,153000,Premium,2,Premium / Spacious
+Panchkula,Sector 20,Independent House,2,2,812,Unfurnished,2,10,21000,Mid-Range,0,Budget / Compact
+Delhi,Dwarka,Apartment,1,1,410,Semi-Furnished,14,10,16500,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Apartment,4,3,1208,Unfurnished,2,6,33000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 15,Apartment,3,3,1092,Furnished,18,7,34000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Whitefield,Independent House,4,3,1544,Semi-Furnished,2,9,70000,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Independent House,3,2,1248,Unfurnished,1,4,22000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,4,4,1508,Furnished,4,5,75500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,Apartment,1,1,401,Semi-Furnished,6,2,8000,Affordable,0,Budget / Compact
+Mumbai,Navi Mumbai,Apartment,3,2,960,Semi-Furnished,17,5,75500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 20,Independent House,4,3,1428,Unfurnished,1,4,33000,Mid-Range,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Villa,5,4,3050,Unfurnished,2,6,189500,Premium,2,Premium / Spacious
+Delhi,Janakpuri,PG/Studio,1,1,227,Furnished,1,4,9500,Affordable,0,Budget / Compact
+Noida,Sector 137,Apartment,3,3,1191,Unfurnished,4,10,35000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Apartment,1,1,388,Unfurnished,10,3,10500,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Independent House,3,3,1221,Unfurnished,1,1,26500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 7,PG/Studio,1,1,175,Semi-Furnished,3,9,4500,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Villa,4,4,1988,Semi-Furnished,0,5,92000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 17,PG/Studio,1,1,278,Semi-Furnished,2,1,7500,Affordable,0,Budget / Compact
+Noida,Sector 137,Independent House,4,3,1412,Furnished,0,6,55500,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Apartment,3,2,1167,Unfurnished,3,6,32500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Whitefield,Apartment,2,1,684,Unfurnished,4,9,25500,Mid-Range,0,Budget / Compact
+Mohali,Sector 71,PG/Studio,1,1,239,Furnished,3,2,6000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,4,3,1456,Semi-Furnished,2,9,51500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 20,Apartment,4,3,1660,Unfurnished,13,8,42500,Mid-Range,1,Mid-Range / Standard
+Pune,Kothrud,Villa,3,3,1416,Semi-Furnished,2,10,74500,Premium,1,Mid-Range / Standard
+Mumbai,Powai,Apartment,4,4,1200,Semi-Furnished,5,3,84000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 7,Villa,4,4,1812,Semi-Furnished,2,8,66000,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Apartment,2,2,824,Semi-Furnished,3,8,25000,Mid-Range,0,Budget / Compact
+Hyderabad,Kukatpally,PG/Studio,1,1,296,Unfurnished,0,2,7500,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Villa,4,3,2588,Semi-Furnished,0,0,151000,Premium,2,Premium / Spacious
+Lucknow,Aliganj,Independent House,2,1,868,Semi-Furnished,0,9,17500,Affordable,0,Budget / Compact
+Panchkula,Sector 15,Apartment,4,3,842,Semi-Furnished,13,5,33500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 44,PG/Studio,1,1,247,Semi-Furnished,0,10,7500,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Apartment,4,3,1272,Furnished,7,3,46500,Premium,1,Mid-Range / Standard
+Mohali,Sector 82,Apartment,1,1,309,Unfurnished,9,5,7500,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Villa,5,5,2770,Furnished,2,0,210000,Premium,2,Premium / Spacious
+Lucknow,Gomti Nagar,Apartment,4,4,1624,Semi-Furnished,2,10,31000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Independent House,4,4,1700,Unfurnished,0,9,64000,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Apartment,2,2,814,Semi-Furnished,19,6,27000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 44,Villa,6,5,3594,Furnished,2,7,202500,Premium,2,Premium / Spacious
+Noida,Sector 75,Independent House,2,2,966,Semi-Furnished,2,10,34500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,PG/Studio,1,1,158,Unfurnished,3,4,5000,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Independent House,3,2,1448,Semi-Furnished,1,4,46500,Premium,1,Mid-Range / Standard
+Bengaluru,Electronic City,Apartment,4,4,1576,Furnished,2,10,81000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,Apartment,4,4,1368,Unfurnished,11,5,39000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,Apartment,3,2,1152,Furnished,19,7,97000,Premium,1,Mid-Range / Standard
+Pune,Wakad,Villa,6,6,3096,Unfurnished,1,4,140000,Premium,2,Premium / Spacious
+Delhi,Lajpat Nagar,Apartment,2,1,784,Semi-Furnished,13,0,33000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 5,Apartment,3,3,978,Semi-Furnished,2,4,23000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 35,PG/Studio,1,1,300,Semi-Furnished,0,2,7500,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Villa,4,4,1900,Semi-Furnished,2,8,70000,Premium,1,Mid-Range / Standard
+Jaipur,Malviya Nagar,Independent House,2,2,836,Furnished,0,7,23000,Mid-Range,0,Budget / Compact
+Mohali,Sector 70,Independent House,2,1,822,Semi-Furnished,1,4,22500,Mid-Range,0,Budget / Compact
+Jaipur,Mansarovar,Apartment,1,1,430,Semi-Furnished,0,3,8000,Affordable,0,Budget / Compact
+Chandigarh,Sector 17,Apartment,3,2,930,Semi-Furnished,16,10,38000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 22,PG/Studio,1,1,253,Unfurnished,1,3,6500,Affordable,0,Budget / Compact
+Noida,Sector 75,Independent House,2,2,842,Furnished,2,8,32500,Mid-Range,0,Budget / Compact
+Jaipur,Vaishali Nagar,Apartment,3,3,966,Furnished,10,5,22500,Mid-Range,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,4,4,1392,Unfurnished,5,8,22500,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,Apartment,1,1,361,Semi-Furnished,16,2,9000,Affordable,0,Budget / Compact
+Noida,Sector 18,Apartment,4,3,1380,Semi-Furnished,8,3,42500,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 70,Apartment,3,2,1278,Semi-Furnished,12,0,31500,Mid-Range,1,Mid-Range / Standard
+Delhi,Rohini,Independent House,5,5,2055,Furnished,0,1,83000,Premium,2,Premium / Spacious
+Gurugram,Sohna Road,Independent House,5,5,2320,Unfurnished,2,0,93000,Premium,2,Premium / Spacious
+Pune,Hinjewadi,Apartment,2,2,804,Semi-Furnished,7,2,21500,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 35,PG/Studio,1,1,231,Semi-Furnished,3,6,6000,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Apartment,4,3,1684,Semi-Furnished,4,6,53000,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,Apartment,4,4,1648,Semi-Furnished,10,10,29500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Whitefield,Independent House,2,2,872,Furnished,2,0,42500,Mid-Range,0,Budget / Compact
+Pune,Wakad,Apartment,1,1,424,Semi-Furnished,0,0,11500,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Independent House,4,3,1584,Furnished,1,2,65000,Premium,1,Mid-Range / Standard
+Pune,Baner,Apartment,4,4,1572,Semi-Furnished,15,1,52500,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,4,4,1700,Unfurnished,10,10,50000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 15,Villa,6,6,3378,Unfurnished,1,2,99000,Premium,2,Premium / Spacious
+Noida,Sector 75,Independent House,2,1,1448,Semi-Furnished,2,5,27000,Mid-Range,0,Budget / Compact
+Mumbai,Powai,Apartment,3,2,1050,Unfurnished,19,4,79500,Premium,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,4,3,1488,Unfurnished,7,5,57500,Premium,1,Mid-Range / Standard
+Pune,Baner,Apartment,2,1,818,Furnished,3,4,29000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 15,Apartment,1,1,389,Semi-Furnished,12,7,10000,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,1,1,407,Semi-Furnished,3,9,14000,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,Apartment,1,1,339,Semi-Furnished,10,4,14000,Affordable,0,Budget / Compact
+Mohali,Sector 70,Independent House,2,2,722,Unfurnished,2,1,18500,Affordable,0,Budget / Compact
+Mumbai,Thane West,Independent House,4,4,1412,Semi-Furnished,1,1,109000,Premium,1,Mid-Range / Standard
+Jaipur,C-Scheme,Independent House,5,4,2435,Unfurnished,0,3,47500,Premium,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Apartment,3,2,996,Semi-Furnished,10,7,19000,Affordable,1,Mid-Range / Standard
+Mumbai,Borivali,Independent House,2,1,1448,Unfurnished,1,3,63000,Premium,0,Budget / Compact
+Hyderabad,Kukatpally,Apartment,3,2,1236,Unfurnished,2,1,34500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,4,4,1716,Unfurnished,5,4,65500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 20,Apartment,4,3,1464,Furnished,13,7,40000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 75,PG/Studio,1,1,152,Semi-Furnished,0,7,4000,Affordable,0,Budget / Compact
+Mumbai,Andheri West,Independent House,3,3,1146,Semi-Furnished,2,0,95000,Premium,1,Mid-Range / Standard
+Gurugram,Sohna Road,Villa,4,4,2100,Furnished,2,7,154500,Premium,2,Premium / Spacious
+Lucknow,Hazratganj,Apartment,3,2,1008,Semi-Furnished,12,2,16000,Affordable,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Independent House,3,2,1212,Semi-Furnished,0,8,57000,Premium,1,Mid-Range / Standard
+Delhi,Rohini,Independent House,4,4,1492,Furnished,2,10,84000,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Apartment,4,3,1328,Semi-Furnished,12,10,49000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 35,Villa,6,5,3486,Unfurnished,1,3,129500,Premium,2,Premium / Spacious
+Bengaluru,Electronic City,Apartment,4,4,1688,Unfurnished,4,9,61000,Premium,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,3,3,960,Unfurnished,1,2,33500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 5,Apartment,2,1,752,Semi-Furnished,0,6,17500,Affordable,0,Budget / Compact
+Panchkula,Sector 20,PG/Studio,1,1,286,Semi-Furnished,2,0,5000,Affordable,0,Budget / Compact
+Noida,Sector 75,PG/Studio,1,1,212,Unfurnished,0,10,7000,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,1,1,343,Unfurnished,12,2,11000,Affordable,0,Budget / Compact
+Delhi,Rohini,Apartment,4,4,1444,Semi-Furnished,20,3,59500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 20,Apartment,4,3,1688,Furnished,0,4,45500,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,Apartment,1,1,842,Unfurnished,12,10,6000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Apartment,2,2,804,Semi-Furnished,10,6,33000,Mid-Range,0,Budget / Compact
+Gurugram,Sohna Road,PG/Studio,1,1,204,Semi-Furnished,2,3,8000,Affordable,0,Budget / Compact
+Pune,Kothrud,Independent House,3,3,1281,Furnished,0,0,50000,Premium,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Independent House,2,1,758,Unfurnished,1,6,24500,Mid-Range,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,1,1,322,Unfurnished,6,4,5000,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Villa,6,5,2886,Semi-Furnished,1,9,123000,Premium,2,Premium / Spacious
+Noida,Sector 75,Villa,3,3,1680,Semi-Furnished,0,6,68000,Premium,1,Mid-Range / Standard
+Mumbai,Andheri West,Apartment,3,3,963,Unfurnished,19,2,66000,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,Apartment,3,3,1050,Unfurnished,5,5,17500,Affordable,1,Mid-Range / Standard
+Panchkula,Sector 20,Apartment,3,3,1284,Semi-Furnished,12,5,27500,Mid-Range,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,3,3,842,Unfurnished,12,4,24500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 35,Villa,6,5,3198,Unfurnished,2,8,141500,Premium,2,Premium / Spacious
+Gurugram,Sohna Road,Apartment,2,2,630,Semi-Furnished,20,6,29500,Mid-Range,0,Budget / Compact
+Pune,Baner,PG/Studio,1,1,161,Unfurnished,2,7,4000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,4,3,1648,Semi-Furnished,3,3,50500,Premium,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Independent House,5,4,2315,Unfurnished,1,0,98000,Premium,2,Premium / Spacious
+Lucknow,Aliganj,Apartment,4,3,1412,Semi-Furnished,10,6,24500,Mid-Range,1,Mid-Range / Standard
+Delhi,Saket,Independent House,4,4,1424,Semi-Furnished,1,8,56000,Premium,1,Mid-Range / Standard
+Lucknow,Gomti Nagar,Apartment,2,2,772,Furnished,4,5,15500,Affordable,0,Budget / Compact
+Mumbai,Andheri West,Apartment,4,3,1316,Semi-Furnished,7,0,90500,Premium,1,Mid-Range / Standard
+Mumbai,Borivali,Apartment,4,4,1368,Semi-Furnished,17,9,112500,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,Independent House,2,2,1448,Unfurnished,2,5,22000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 35,Independent House,3,3,1188,Furnished,1,3,43500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Andheri West,Apartment,3,2,1152,Semi-Furnished,6,3,90000,Premium,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Independent House,4,3,1824,Unfurnished,2,0,73500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,Apartment,1,1,366,Semi-Furnished,20,6,9500,Affordable,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,3,3,948,Semi-Furnished,18,0,41500,Mid-Range,1,Mid-Range / Standard
+Delhi,Saket,Independent House,2,2,904,Semi-Furnished,2,1,43000,Mid-Range,0,Budget / Compact
+Jaipur,Mansarovar,Apartment,2,2,796,Unfurnished,15,5,15000,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,2,2,644,Unfurnished,13,3,12500,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,Apartment,1,1,413,Furnished,5,10,9000,Affordable,0,Budget / Compact
+Mumbai,Thane West,Apartment,3,3,912,Unfurnished,7,5,59000,Premium,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,1,1,356,Unfurnished,10,4,8500,Affordable,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,4,3,1616,Semi-Furnished,0,3,66000,Premium,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,3,2,1053,Semi-Furnished,2,4,44000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,4,4,1336,Semi-Furnished,20,0,22500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Thane West,Villa,3,2,1404,Unfurnished,1,0,125500,Premium,1,Mid-Range / Standard
+Noida,Sector 75,PG/Studio,1,1,300,Semi-Furnished,2,9,8500,Affordable,0,Budget / Compact
+Noida,Sector 75,Independent House,4,3,1640,Semi-Furnished,0,9,54500,Premium,1,Mid-Range / Standard
+Bengaluru,Whitefield,PG/Studio,1,1,143,Semi-Furnished,3,5,5000,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,PG/Studio,1,1,269,Furnished,1,4,5000,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,Apartment,3,2,1185,Semi-Furnished,15,10,22500,Mid-Range,1,Mid-Range / Standard
+Lucknow,Aliganj,Apartment,1,1,323,Semi-Furnished,16,6,5000,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,1,1,409,Semi-Furnished,1,6,12500,Affordable,0,Budget / Compact
+Mumbai,Powai,Apartment,2,1,764,Unfurnished,0,10,54500,Premium,0,Budget / Compact
+Panchkula,Sector 20,Apartment,2,2,854,Semi-Furnished,7,7,21000,Mid-Range,0,Budget / Compact
+Mumbai,Andheri West,PG/Studio,1,1,126,Semi-Furnished,1,5,8500,Affordable,0,Budget / Compact
+Mohali,Kharar Road,Apartment,4,3,1380,Semi-Furnished,3,1,32000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Madhapur,Apartment,3,2,1200,Unfurnished,5,4,32000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 71,Independent House,5,5,2290,Unfurnished,1,9,58000,Premium,1,Mid-Range / Standard
+Bengaluru,Koramangala,PG/Studio,1,1,248,Unfurnished,2,4,7000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Independent House,4,4,1860,Furnished,0,10,78000,Premium,1,Mid-Range / Standard
+Pune,Wakad,PG/Studio,1,1,173,Semi-Furnished,3,3,5500,Affordable,0,Budget / Compact
+Noida,Sector 137,Independent House,5,4,1770,Furnished,0,1,62500,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Apartment,2,1,804,Semi-Furnished,0,6,29000,Mid-Range,0,Budget / Compact
+Mohali,Phase 5,Independent House,4,4,1712,Furnished,2,2,59000,Premium,1,Mid-Range / Standard
+Pune,Baner,Apartment,4,3,1564,Unfurnished,18,2,47000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 15,Apartment,1,1,352,Semi-Furnished,9,10,9000,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Apartment,1,1,842,Semi-Furnished,12,3,11000,Affordable,0,Budget / Compact
+Delhi,Dwarka,Independent House,2,1,778,Unfurnished,0,4,30000,Mid-Range,0,Budget / Compact
+Gurugram,Golf Course Road,Apartment,1,1,321,Furnished,15,9,17500,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,Apartment,2,2,782,Unfurnished,15,5,28500,Mid-Range,0,Budget / Compact
+Noida,Sector 62,Apartment,4,4,1400,Furnished,20,0,50500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 17,PG/Studio,1,1,236,Furnished,1,8,8500,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Apartment,4,4,1544,Furnished,6,2,52500,Premium,1,Mid-Range / Standard
+Mohali,Phase 5,PG/Studio,1,1,156,Unfurnished,3,1,3500,Affordable,0,Budget / Compact
+Mohali,Kharar Road,Independent House,3,3,1485,Furnished,1,4,45500,Premium,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,2,1,610,Unfurnished,12,8,26000,Mid-Range,0,Budget / Compact
+Pune,Wakad,Apartment,1,1,384,Unfurnished,9,7,11000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Independent House,2,2,788,Furnished,0,8,42000,Mid-Range,0,Budget / Compact
+Lucknow,Indira Nagar,Apartment,2,2,764,Furnished,13,8,16500,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Apartment,1,1,312,Furnished,9,6,8500,Affordable,0,Budget / Compact
+Mohali,Sector 70,Apartment,4,3,1388,Furnished,10,8,40500,Mid-Range,1,Mid-Range / Standard
+Jaipur,Mansarovar,Independent House,3,2,1275,Unfurnished,0,7,24000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 75,Apartment,4,4,1704,Unfurnished,6,6,45500,Premium,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,Apartment,3,3,1083,Semi-Furnished,13,9,47000,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Villa,3,3,1704,Semi-Furnished,1,0,78500,Premium,1,Mid-Range / Standard
+Noida,Sector 137,PG/Studio,1,1,139,Unfurnished,2,1,3000,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,2,2,664,Semi-Furnished,4,0,21000,Mid-Range,0,Budget / Compact
+Delhi,Janakpuri,Apartment,2,1,634,Semi-Furnished,20,8,30500,Mid-Range,0,Budget / Compact
+Hyderabad,Kukatpally,Apartment,2,1,818,Unfurnished,7,5,21000,Mid-Range,0,Budget / Compact
+Pune,Wakad,PG/Studio,1,1,120,Semi-Furnished,2,6,4000,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Apartment,1,1,427,Semi-Furnished,14,1,13500,Affordable,0,Budget / Compact
+Noida,Sector 75,Apartment,1,1,380,Furnished,3,7,14000,Affordable,0,Budget / Compact
+Mumbai,Powai,Independent House,3,2,1116,Semi-Furnished,1,6,94000,Premium,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,4,3,842,Unfurnished,13,1,35000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 17,Apartment,3,2,1095,Semi-Furnished,7,0,36000,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,PG/Studio,1,1,242,Semi-Furnished,2,8,6000,Affordable,0,Budget / Compact
+Pune,Kothrud,Independent House,4,3,1832,Semi-Furnished,1,0,54000,Premium,1,Mid-Range / Standard
+Delhi,Janakpuri,Apartment,3,3,1140,Unfurnished,16,6,41500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 15,PG/Studio,1,1,126,Semi-Furnished,1,5,3000,Affordable,0,Budget / Compact
+Noida,Sector 137,PG/Studio,1,1,132,Semi-Furnished,1,6,3500,Affordable,0,Budget / Compact
+Chandigarh,Sector 17,Independent House,4,3,1656,Unfurnished,0,4,53500,Premium,1,Mid-Range / Standard
+Bengaluru,Electronic City,Independent House,4,4,1924,Furnished,0,4,108000,Premium,1,Mid-Range / Standard
+Lucknow,Gomti Nagar,Apartment,2,1,680,Semi-Furnished,11,10,12500,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Villa,5,4,2330,Semi-Furnished,0,3,103500,Premium,2,Premium / Spacious
+Lucknow,Hazratganj,Apartment,4,3,1256,Unfurnished,8,1,18500,Affordable,1,Mid-Range / Standard
+Bengaluru,Koramangala,Apartment,3,2,948,Semi-Furnished,16,8,38000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,2,1,646,Semi-Furnished,20,8,21500,Mid-Range,0,Budget / Compact
+Pune,Kothrud,Apartment,2,1,784,Unfurnished,19,8,23000,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,Apartment,2,2,738,Unfurnished,2,10,28500,Mid-Range,0,Budget / Compact
+Bengaluru,HSR Layout,Independent House,5,4,2270,Furnished,2,6,122000,Premium,2,Premium / Spacious
+Pune,Wakad,Apartment,3,3,1254,Semi-Furnished,12,3,45000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Apartment,4,3,1652,Semi-Furnished,3,6,53500,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,4,3,1600,Semi-Furnished,2,0,46500,Premium,1,Mid-Range / Standard
+Mohali,Phase 5,Independent House,5,5,1750,Furnished,0,1,49500,Premium,1,Mid-Range / Standard
+Pune,Hinjewadi,Villa,3,3,1407,Furnished,2,7,83500,Premium,1,Mid-Range / Standard
+Mumbai,Navi Mumbai,Villa,6,5,3636,Furnished,0,6,482000,Premium,2,Premium / Spacious
+Delhi,Janakpuri,Independent House,4,4,1460,Furnished,1,2,67500,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,Villa,3,3,1548,Furnished,0,0,40000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Independent House,5,4,1990,Unfurnished,1,1,59500,Premium,1,Mid-Range / Standard
+Delhi,Dwarka,PG/Studio,1,1,243,Furnished,3,1,10500,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,PG/Studio,1,1,150,Furnished,1,0,3000,Affordable,0,Budget / Compact
+Pune,Kothrud,Independent House,5,5,2130,Furnished,0,2,90000,Premium,2,Premium / Spacious
+Mohali,Sector 71,Apartment,1,1,356,Unfurnished,5,0,8000,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,PG/Studio,1,1,268,Semi-Furnished,1,10,9500,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,Independent House,3,3,1419,Unfurnished,2,5,64500,Premium,1,Mid-Range / Standard
+Delhi,Rohini,Apartment,3,2,1176,Furnished,14,9,66500,Premium,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,4,3,1268,Furnished,18,2,38500,Mid-Range,1,Mid-Range / Standard
+Lucknow,Aliganj,Villa,6,5,3258,Semi-Furnished,2,3,72000,Premium,2,Premium / Spacious
+Mohali,Kharar Road,Independent House,5,4,2245,Semi-Furnished,1,9,65000,Premium,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Independent House,4,3,1856,Semi-Furnished,2,3,39500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Electronic City,Apartment,4,3,1376,Unfurnished,15,5,51500,Premium,1,Mid-Range / Standard
+Mumbai,Borivali,Apartment,3,3,1209,Unfurnished,5,3,78500,Premium,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Villa,5,5,2730,Semi-Furnished,2,1,173000,Premium,2,Premium / Spacious
+Noida,Sector 18,Apartment,2,1,736,Semi-Furnished,10,9,27000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 17,Apartment,4,4,1372,Semi-Furnished,12,1,44000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,4,3,1568,Furnished,2,8,50500,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,Apartment,2,1,610,Semi-Furnished,13,7,17500,Affordable,0,Budget / Compact
+Mumbai,Navi Mumbai,Independent House,3,3,1308,Furnished,0,7,121500,Premium,1,Mid-Range / Standard
+Mumbai,Powai,Villa,4,4,2372,Unfurnished,0,6,235500,Premium,2,Premium / Spacious
+Pune,Wakad,Apartment,1,1,310,Semi-Furnished,3,5,10500,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,1,1,340,Furnished,4,7,12000,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,1,1,362,Unfurnished,3,9,6000,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,Apartment,3,3,1233,Furnished,11,3,31500,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,Apartment,3,2,978,Unfurnished,10,0,22000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Madhapur,PG/Studio,1,1,221,Semi-Furnished,2,6,6500,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,Apartment,4,3,1488,Unfurnished,11,2,58500,Premium,1,Mid-Range / Standard
+Pune,Baner,Villa,6,6,3744,Semi-Furnished,0,7,202000,Premium,2,Premium / Spacious
+Chandigarh,Manimajra,Independent House,3,2,1266,Furnished,0,9,53500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,PG/Studio,1,1,235,Semi-Furnished,0,6,5000,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Apartment,3,2,1122,Furnished,8,7,33000,Mid-Range,1,Mid-Range / Standard
+Pune,Wakad,Apartment,2,2,842,Unfurnished,18,1,22500,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 35,Independent House,3,3,1461,Semi-Furnished,1,5,50000,Premium,1,Mid-Range / Standard
+Mumbai,Thane West,Independent House,5,5,2160,Semi-Furnished,0,3,174000,Premium,2,Premium / Spacious
+Delhi,Dwarka,Apartment,1,1,320,Unfurnished,6,7,12000,Affordable,0,Budget / Compact
+Mohali,Sector 71,Independent House,4,4,1880,Unfurnished,0,8,43000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Andheri West,Apartment,4,4,1552,Unfurnished,15,3,105500,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,Apartment,2,2,816,Semi-Furnished,12,7,17500,Affordable,0,Budget / Compact
+Gurugram,Sector 56,PG/Studio,1,1,188,Unfurnished,3,5,6000,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,PG/Studio,1,1,297,Semi-Furnished,2,8,12000,Affordable,0,Budget / Compact
+Mumbai,Andheri West,Villa,6,6,3312,Semi-Furnished,1,1,363500,Premium,2,Premium / Spacious
+Mumbai,Andheri West,Apartment,3,2,1155,Furnished,10,1,102500,Premium,1,Mid-Range / Standard
+Jaipur,C-Scheme,Apartment,3,2,966,Unfurnished,13,1,16000,Affordable,1,Mid-Range / Standard
+Noida,Sector 75,Independent House,4,3,1972,Furnished,1,8,76500,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,PG/Studio,1,1,271,Unfurnished,3,1,5500,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Apartment,1,1,359,Unfurnished,5,10,8000,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,4,3,1584,Semi-Furnished,4,4,27000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,PG/Studio,1,1,261,Semi-Furnished,2,9,8500,Affordable,0,Budget / Compact
+Gurugram,Sector 56,Apartment,2,2,786,Semi-Furnished,9,5,43500,Mid-Range,0,Budget / Compact
+Delhi,Dwarka,Apartment,4,3,842,Furnished,13,1,59500,Premium,1,Mid-Range / Standard
+Jaipur,C-Scheme,Apartment,2,1,842,Furnished,8,3,17500,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,3,2,951,Unfurnished,7,4,28500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 17,Apartment,4,3,1568,Unfurnished,10,3,43000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 17,Apartment,1,1,375,Unfurnished,13,7,9500,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,1,1,304,Unfurnished,15,0,10500,Affordable,0,Budget / Compact
+Mohali,Sector 82,PG/Studio,1,1,251,Unfurnished,1,0,5000,Affordable,0,Budget / Compact
+Mumbai,Powai,Independent House,2,1,924,Furnished,0,9,88500,Premium,0,Budget / Compact
+Jaipur,C-Scheme,PG/Studio,1,1,120,Semi-Furnished,0,10,3000,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,2,1,652,Furnished,19,4,25000,Mid-Range,0,Budget / Compact
+Bengaluru,Koramangala,PG/Studio,1,1,203,Unfurnished,0,5,6500,Affordable,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,2,1,664,Unfurnished,6,2,26000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 17,Apartment,2,1,766,Unfurnished,10,3,19000,Affordable,0,Budget / Compact
+Delhi,Rohini,Apartment,4,4,1652,Unfurnished,3,4,60500,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Independent House,3,2,1326,Furnished,2,8,57500,Premium,1,Mid-Range / Standard
+Delhi,Janakpuri,Villa,5,5,2540,Unfurnished,2,3,139500,Premium,2,Premium / Spacious
+Panchkula,Sector 5,Apartment,3,3,915,Furnished,5,1,25500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Electronic City,Independent House,3,2,1176,Semi-Furnished,2,7,53000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 44,PG/Studio,1,1,212,Semi-Furnished,1,8,6000,Affordable,0,Budget / Compact
+Noida,Sector 62,Independent House,5,4,2195,Semi-Furnished,1,4,70000,Premium,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Villa,5,5,2910,Furnished,2,0,80500,Premium,2,Premium / Spacious
+Bengaluru,HSR Layout,Independent House,4,4,1428,Unfurnished,2,1,53000,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,2,2,806,Semi-Furnished,12,10,28000,Mid-Range,0,Budget / Compact
+Lucknow,Hazratganj,Independent House,3,3,1272,Semi-Furnished,0,1,22500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 22,Apartment,1,1,410,Furnished,10,3,15500,Affordable,0,Budget / Compact
+Gurugram,Sohna Road,Apartment,1,1,387,Unfurnished,11,7,15000,Affordable,0,Budget / Compact
+Gurugram,Sector 56,Apartment,2,2,748,Semi-Furnished,0,7,36500,Mid-Range,0,Budget / Compact
+Mohali,Sector 70,Apartment,2,2,722,Semi-Furnished,9,9,20500,Mid-Range,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,1,1,309,Semi-Furnished,13,0,9500,Affordable,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,3,3,1065,Unfurnished,0,8,20000,Affordable,1,Mid-Range / Standard
+Delhi,Janakpuri,PG/Studio,1,1,184,Semi-Furnished,2,1,6000,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,2,1,676,Semi-Furnished,10,10,28000,Mid-Range,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,1,1,415,Unfurnished,9,4,6500,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,Apartment,4,4,1280,Unfurnished,16,0,52000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 22,Independent House,5,5,1765,Furnished,0,7,74500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 5,Apartment,3,2,1053,Semi-Furnished,16,2,26500,Mid-Range,1,Mid-Range / Standard
+Lucknow,Aliganj,Independent House,5,4,2130,Semi-Furnished,0,4,42500,Mid-Range,1,Mid-Range / Standard
+Jaipur,C-Scheme,PG/Studio,1,1,288,Unfurnished,3,10,5000,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Independent House,5,4,1960,Unfurnished,1,10,81500,Premium,1,Mid-Range / Standard
+Noida,Sector 18,Independent House,2,2,954,Furnished,0,7,41000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,2,1,820,Unfurnished,0,5,22500,Mid-Range,0,Budget / Compact
+Bengaluru,Koramangala,Independent House,4,3,1928,Unfurnished,1,6,78000,Premium,1,Mid-Range / Standard
+Bengaluru,Electronic City,Apartment,3,3,1134,Furnished,7,8,56500,Premium,1,Mid-Range / Standard
+Mumbai,Andheri West,Apartment,1,1,310,Semi-Furnished,20,5,23000,Mid-Range,0,Budget / Compact
+Jaipur,Vaishali Nagar,Apartment,3,3,1032,Furnished,9,5,24000,Mid-Range,1,Mid-Range / Standard
+Jaipur,Malviya Nagar,Apartment,4,3,1412,Semi-Furnished,5,7,29500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Thane West,Independent House,5,4,2330,Furnished,1,4,224500,Premium,2,Premium / Spacious
+Noida,Sector 75,Apartment,2,2,710,Semi-Furnished,19,5,21500,Mid-Range,0,Budget / Compact
+Mohali,Sector 82,Apartment,2,1,632,Semi-Furnished,10,6,18500,Affordable,0,Budget / Compact
+Noida,Sector 137,Independent House,4,4,1676,Furnished,2,0,63500,Premium,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Apartment,2,1,676,Unfurnished,14,9,12500,Affordable,0,Budget / Compact
+Noida,Sector 62,Independent House,5,4,2075,Furnished,2,1,73500,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,PG/Studio,1,1,191,Unfurnished,0,6,4000,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Independent House,2,2,720,Unfurnished,2,8,22000,Mid-Range,0,Budget / Compact
+Mumbai,Navi Mumbai,Apartment,2,2,654,Semi-Furnished,2,1,51000,Premium,0,Budget / Compact
+Panchkula,Sector 15,Apartment,4,4,1436,Unfurnished,13,2,30000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Thane West,PG/Studio,1,1,214,Unfurnished,2,1,11500,Affordable,0,Budget / Compact
+Noida,Sector 62,Independent House,5,4,1448,Semi-Furnished,1,5,59000,Premium,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,2,2,628,Semi-Furnished,4,10,27000,Mid-Range,0,Budget / Compact
+Mohali,Phase 5,Apartment,2,1,754,Semi-Furnished,19,6,20500,Mid-Range,0,Budget / Compact
+Jaipur,Vaishali Nagar,PG/Studio,1,1,164,Semi-Furnished,2,7,3500,Affordable,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,4,4,1208,Semi-Furnished,3,7,22500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,1,1,337,Unfurnished,19,2,12500,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Independent House,3,3,1416,Unfurnished,1,7,63500,Premium,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,Apartment,1,1,372,Unfurnished,8,9,16500,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,Apartment,4,3,1232,Semi-Furnished,12,10,59000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 17,Villa,4,4,2140,Semi-Furnished,1,7,101500,Premium,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Independent House,5,4,1750,Unfurnished,2,9,56500,Premium,1,Mid-Range / Standard
+Noida,Sector 62,PG/Studio,1,1,185,Semi-Furnished,1,3,5000,Affordable,0,Budget / Compact
+Jaipur,Vaishali Nagar,Apartment,4,4,1544,Semi-Furnished,9,5,27000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Electronic City,Apartment,2,1,750,Furnished,11,2,36500,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 22,Independent House,2,1,968,Unfurnished,1,8,33000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 5,Apartment,4,3,842,Semi-Furnished,0,2,34500,Mid-Range,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,1,1,310,Furnished,6,3,13500,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,2,1,720,Semi-Furnished,2,6,28500,Mid-Range,0,Budget / Compact
+Delhi,Janakpuri,Apartment,1,1,420,Unfurnished,15,0,14500,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Independent House,4,4,1968,Unfurnished,0,9,35500,Mid-Range,1,Mid-Range / Standard
+Lucknow,Gomti Nagar,Apartment,1,1,349,Unfurnished,9,6,6000,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,2,1,628,Semi-Furnished,2,10,13500,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,3,2,1140,Semi-Furnished,15,0,45000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Powai,Apartment,3,3,987,Furnished,13,4,82500,Premium,1,Mid-Range / Standard
+Chandigarh,Manimajra,Villa,6,5,3420,Unfurnished,1,3,143000,Premium,2,Premium / Spacious
+Noida,Sector 18,PG/Studio,1,1,120,Semi-Furnished,3,9,3500,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,2,1,810,Semi-Furnished,20,8,36000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 20,Apartment,1,1,372,Unfurnished,0,1,7500,Affordable,0,Budget / Compact
+Hyderabad,Kukatpally,Apartment,3,3,1239,Unfurnished,2,3,37500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 35,Apartment,2,2,642,Unfurnished,2,10,19000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Apartment,1,1,334,Unfurnished,12,2,7000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,PG/Studio,1,1,122,Semi-Furnished,3,7,4000,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,Independent House,4,3,1436,Semi-Furnished,1,2,65500,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,Independent House,2,2,798,Unfurnished,2,4,23500,Mid-Range,0,Budget / Compact
+Pune,Hinjewadi,Apartment,3,3,842,Unfurnished,1,3,32000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 17,Independent House,3,2,1311,Semi-Furnished,2,7,47000,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Independent House,5,4,2470,Semi-Furnished,1,4,45500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 17,Villa,3,3,1569,Semi-Furnished,0,5,72500,Premium,1,Mid-Range / Standard
+Noida,Sector 62,Apartment,1,1,430,Semi-Furnished,18,0,13000,Affordable,0,Budget / Compact
+Mohali,Kharar Road,Independent House,2,2,948,Semi-Furnished,1,0,25500,Mid-Range,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,3,2,1131,Furnished,9,5,23000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sector 56,Apartment,3,3,1032,Furnished,10,6,56500,Premium,1,Mid-Range / Standard
+Mumbai,Powai,PG/Studio,1,1,232,Semi-Furnished,0,1,14000,Affordable,0,Budget / Compact
+Noida,Sector 62,Apartment,3,3,1137,Semi-Furnished,9,6,31000,Mid-Range,1,Mid-Range / Standard
+Jaipur,Malviya Nagar,Independent House,4,3,1628,Furnished,2,8,41000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sector 56,Apartment,1,1,349,Unfurnished,8,3,13000,Affordable,0,Budget / Compact
+Noida,Sector 137,Apartment,1,1,842,Furnished,15,6,11500,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Villa,4,3,1876,Unfurnished,1,10,82000,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Independent House,3,3,1110,Unfurnished,1,0,34500,Mid-Range,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Independent House,2,2,858,Semi-Furnished,2,2,40000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 17,PG/Studio,1,1,260,Unfurnished,1,4,6500,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Apartment,4,4,1324,Semi-Furnished,20,6,56500,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,Independent House,3,3,1059,Furnished,2,5,25500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 22,Independent House,5,4,2100,Semi-Furnished,2,5,77000,Premium,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Apartment,3,3,1095,Semi-Furnished,15,4,53500,Premium,1,Mid-Range / Standard
+Delhi,Dwarka,Independent House,2,2,852,Furnished,0,7,41500,Mid-Range,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,2,1,618,Semi-Furnished,15,6,21500,Mid-Range,0,Budget / Compact
+Mumbai,Borivali,Apartment,1,1,372,Semi-Furnished,19,3,26500,Mid-Range,0,Budget / Compact
+Pune,Baner,PG/Studio,1,1,188,Semi-Furnished,1,8,6000,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,Villa,6,6,2898,Semi-Furnished,1,1,168000,Premium,2,Premium / Spacious
+Mohali,Sector 71,Independent House,2,2,876,Furnished,0,1,26000,Mid-Range,0,Budget / Compact
+Lucknow,Aliganj,Apartment,2,1,842,Semi-Furnished,16,8,12000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Independent House,4,3,1852,Unfurnished,1,6,56500,Premium,1,Mid-Range / Standard
+Delhi,Saket,Apartment,2,1,614,Furnished,4,9,31000,Mid-Range,0,Budget / Compact
+Jaipur,Mansarovar,Independent House,5,5,1855,Unfurnished,1,6,41000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 35,Apartment,2,1,848,Semi-Furnished,7,6,27500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,Apartment,1,1,404,Unfurnished,4,3,16000,Affordable,0,Budget / Compact
+Delhi,Rohini,PG/Studio,1,1,187,Semi-Furnished,0,5,6500,Affordable,0,Budget / Compact
+Mumbai,Powai,Apartment,3,2,1086,Semi-Furnished,13,6,94500,Premium,1,Mid-Range / Standard
+Delhi,Saket,Apartment,1,1,329,Unfurnished,8,9,13500,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Apartment,1,1,414,Furnished,13,5,19000,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,Apartment,3,2,1002,Semi-Furnished,16,3,45000,Mid-Range,1,Mid-Range / Standard
+Pune,Baner,Apartment,1,1,329,Furnished,3,1,11500,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,PG/Studio,1,1,194,Semi-Furnished,1,7,3000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Villa,4,3,2012,Furnished,2,8,137000,Premium,2,Premium / Spacious
+Noida,Sector 18,Independent House,4,3,1800,Furnished,1,8,72500,Premium,1,Mid-Range / Standard
+Jaipur,Malviya Nagar,Apartment,3,2,1176,Furnished,12,8,29000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,1,1,322,Furnished,7,1,10000,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,Independent House,2,2,988,Semi-Furnished,1,7,48500,Premium,0,Budget / Compact
+Chandigarh,Manimajra,Independent House,4,4,1440,Furnished,2,10,63500,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Apartment,3,2,1203,Furnished,16,7,42500,Mid-Range,1,Mid-Range / Standard
+Jaipur,C-Scheme,Independent House,4,4,1984,Semi-Furnished,1,4,45000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Whitefield,Independent House,3,3,1113,Semi-Furnished,1,10,50500,Premium,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Apartment,3,2,936,Semi-Furnished,19,9,37500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 7,Villa,5,4,3145,Furnished,1,2,130500,Premium,2,Premium / Spacious
+Hyderabad,Gachibowli,Villa,6,5,2632,Furnished,2,6,171500,Premium,2,Premium / Spacious
+Lucknow,Indira Nagar,Villa,4,3,2600,Semi-Furnished,0,6,68000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 17,Apartment,4,4,1264,Furnished,1,2,42000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Andheri West,Independent House,5,4,2145,Furnished,1,9,179000,Premium,2,Premium / Spacious
+Mohali,Kharar Road,Independent House,2,1,858,Semi-Furnished,0,9,25500,Mid-Range,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,1,1,370,Unfurnished,1,10,12500,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,PG/Studio,1,1,212,Unfurnished,1,5,7000,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,PG/Studio,1,1,298,Semi-Furnished,3,3,9500,Affordable,0,Budget / Compact
+Chandigarh,Sector 22,Independent House,5,5,2425,Unfurnished,2,2,84500,Premium,2,Premium / Spacious
+Panchkula,Sector 15,Independent House,2,1,754,Furnished,0,8,22500,Mid-Range,0,Budget / Compact
+Mohali,Sector 82,Apartment,2,2,622,Furnished,9,10,20000,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,2,1,726,Unfurnished,6,10,11500,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,1,1,350,Unfurnished,6,10,5500,Affordable,0,Budget / Compact
+Pune,Kothrud,Apartment,1,1,309,Semi-Furnished,5,0,10000,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,PG/Studio,1,1,183,Furnished,1,1,3500,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,2,2,664,Unfurnished,16,5,19000,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Villa,5,5,2632,Unfurnished,2,2,105000,Premium,2,Premium / Spacious
+Gurugram,Sector 56,Independent House,4,3,1904,Semi-Furnished,1,0,77500,Premium,1,Mid-Range / Standard
+Delhi,Rohini,Apartment,2,1,804,Semi-Furnished,0,3,27000,Mid-Range,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,2,1,610,Semi-Furnished,20,1,12000,Affordable,0,Budget / Compact
+Gurugram,Sohna Road,Independent House,5,5,2280,Furnished,2,5,122000,Premium,2,Premium / Spacious
+Pune,Kothrud,Independent House,5,4,1920,Semi-Furnished,0,7,73500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 35,Apartment,4,3,1708,Semi-Furnished,10,3,63500,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Apartment,2,2,774,Semi-Furnished,19,0,22500,Mid-Range,0,Budget / Compact
+Delhi,Saket,Apartment,1,1,335,Semi-Furnished,14,1,15000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Apartment,4,3,1644,Semi-Furnished,11,3,42500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Madhapur,Independent House,4,4,1448,Semi-Furnished,2,10,55500,Premium,1,Mid-Range / Standard
+Mohali,Sector 82,PG/Studio,1,1,276,Semi-Furnished,3,1,5000,Affordable,0,Budget / Compact
+Mohali,Sector 71,Independent House,3,3,1448,Semi-Furnished,2,10,34500,Mid-Range,1,Mid-Range / Standard
+Pune,Hinjewadi,Apartment,2,1,604,Semi-Furnished,3,1,18000,Affordable,0,Budget / Compact
+Bengaluru,Electronic City,Apartment,2,1,694,Furnished,2,10,33000,Mid-Range,0,Budget / Compact
+Noida,Sector 137,Apartment,2,2,780,Unfurnished,7,0,20000,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,Apartment,2,2,746,Unfurnished,13,5,29000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 35,Villa,4,4,2568,Furnished,1,2,131500,Premium,2,Premium / Spacious
+Bengaluru,Koramangala,Apartment,2,1,830,Semi-Furnished,0,10,35500,Mid-Range,0,Budget / Compact
+Pune,Wakad,Apartment,4,3,1288,Semi-Furnished,7,5,43500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Villa,5,4,3120,Furnished,0,7,176500,Premium,2,Premium / Spacious
+Panchkula,Sector 5,Apartment,2,1,650,Unfurnished,3,5,14500,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,1,1,411,Semi-Furnished,4,10,15500,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,4,3,1516,Semi-Furnished,12,5,53500,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Independent House,5,5,1825,Semi-Furnished,0,7,79500,Premium,1,Mid-Range / Standard
+Bengaluru,Electronic City,PG/Studio,1,1,121,Furnished,0,10,5000,Affordable,0,Budget / Compact
+Pune,Wakad,PG/Studio,1,1,213,Semi-Furnished,1,6,6000,Affordable,0,Budget / Compact
+Delhi,Saket,PG/Studio,1,1,282,Unfurnished,2,8,10000,Affordable,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,3,3,1197,Semi-Furnished,11,0,22500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,2,1,824,Unfurnished,12,9,31500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 5,Apartment,4,3,1384,Furnished,13,6,41000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 17,Apartment,4,3,1268,Furnished,3,3,47500,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,Apartment,3,3,972,Furnished,7,2,35000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,PG/Studio,1,1,236,Unfurnished,2,6,14500,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Independent House,3,2,1101,Semi-Furnished,2,5,22000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 17,Villa,6,6,2850,Semi-Furnished,0,6,134500,Premium,2,Premium / Spacious
+Delhi,Lajpat Nagar,Apartment,3,2,1128,Furnished,3,9,50500,Premium,1,Mid-Range / Standard
+Bengaluru,Whitefield,Apartment,3,3,912,Furnished,10,8,47000,Premium,1,Mid-Range / Standard
+Bengaluru,Koramangala,Apartment,4,3,1272,Unfurnished,5,4,47000,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Independent House,4,3,1632,Semi-Furnished,2,10,56500,Premium,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,4,3,1460,Unfurnished,5,9,43000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,3,3,1086,Unfurnished,11,0,37500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 35,Independent House,5,4,1835,Furnished,1,4,73500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 22,Independent House,4,3,1688,Furnished,2,3,64500,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,1,1,409,Furnished,16,10,18000,Affordable,0,Budget / Compact
+Chandigarh,Manimajra,Apartment,1,1,407,Unfurnished,6,0,12000,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Apartment,2,1,742,Furnished,7,4,26000,Mid-Range,0,Budget / Compact
+Mumbai,Andheri West,Villa,4,4,2240,Unfurnished,2,5,228500,Premium,2,Premium / Spacious
+Panchkula,Sector 5,Apartment,1,1,329,Furnished,15,9,9500,Affordable,0,Budget / Compact
+Pune,Kothrud,PG/Studio,1,1,155,Semi-Furnished,3,3,4500,Affordable,0,Budget / Compact
+Delhi,Lajpat Nagar,Apartment,3,3,1215,Semi-Furnished,0,10,49000,Premium,1,Mid-Range / Standard
+Mumbai,Powai,Villa,4,4,2392,Semi-Furnished,2,6,290500,Premium,2,Premium / Spacious
+Pune,Kothrud,PG/Studio,1,1,157,Unfurnished,2,5,4500,Affordable,0,Budget / Compact
+Mumbai,Andheri West,Apartment,3,2,1095,Unfurnished,3,7,77500,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,PG/Studio,1,1,228,Semi-Furnished,3,9,3500,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Apartment,2,2,712,Semi-Furnished,20,1,22000,Mid-Range,0,Budget / Compact
+Panchkula,Sector 20,Villa,6,5,3726,Unfurnished,2,1,115500,Premium,2,Premium / Spacious
+Hyderabad,Kukatpally,Apartment,3,3,1083,Unfurnished,7,7,33500,Mid-Range,1,Mid-Range / Standard
+Delhi,Dwarka,PG/Studio,1,1,229,Furnished,1,5,9000,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Independent House,4,3,1688,Unfurnished,0,6,34500,Mid-Range,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Apartment,1,1,301,Semi-Furnished,3,8,6000,Affordable,0,Budget / Compact
+Lucknow,Aliganj,Apartment,4,4,1440,Semi-Furnished,7,0,24000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 137,PG/Studio,1,1,196,Furnished,2,5,6000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Apartment,1,1,403,Unfurnished,8,5,9000,Affordable,0,Budget / Compact
+Mohali,Sector 70,PG/Studio,1,1,291,Unfurnished,1,8,6000,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,3,2,1095,Unfurnished,11,0,36000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Thane West,Apartment,1,1,428,Furnished,11,8,43000,Mid-Range,0,Budget / Compact
+Bengaluru,HSR Layout,Independent House,2,1,882,Unfurnished,2,7,39000,Mid-Range,0,Budget / Compact
+Bengaluru,Electronic City,PG/Studio,1,1,212,Semi-Furnished,1,7,8000,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,1,1,360,Semi-Furnished,19,1,6500,Affordable,0,Budget / Compact
+Panchkula,Sector 15,Apartment,4,3,1668,Unfurnished,3,1,33000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Koramangala,Apartment,3,2,1275,Furnished,12,1,60000,Premium,1,Mid-Range / Standard
+Mohali,Phase 5,Apartment,4,4,1308,Semi-Furnished,13,10,35500,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,2,2,628,Furnished,14,5,23500,Mid-Range,0,Budget / Compact
+Bengaluru,HSR Layout,Independent House,2,2,964,Semi-Furnished,2,3,40000,Mid-Range,0,Budget / Compact
+Delhi,Janakpuri,PG/Studio,1,1,133,Unfurnished,1,0,4000,Affordable,0,Budget / Compact
+Noida,Sector 75,Apartment,4,4,1544,Furnished,13,9,57500,Premium,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,1,1,347,Furnished,10,5,9500,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,Apartment,1,1,318,Unfurnished,5,9,6000,Affordable,0,Budget / Compact
+Gurugram,Golf Course Road,Apartment,1,1,319,Semi-Furnished,12,3,16000,Affordable,0,Budget / Compact
+Noida,Sector 18,Villa,6,6,2632,Furnished,2,6,149000,Premium,2,Premium / Spacious
+Mumbai,Borivali,Apartment,2,1,756,Furnished,0,0,58000,Premium,0,Budget / Compact
+Mumbai,Thane West,PG/Studio,1,1,282,Unfurnished,2,8,18000,Affordable,0,Budget / Compact
+Hyderabad,Banjara Hills,Villa,3,2,1797,Semi-Furnished,0,3,89000,Premium,1,Mid-Range / Standard
+Gurugram,Sector 56,Independent House,3,2,1131,Semi-Furnished,2,9,48500,Premium,1,Mid-Range / Standard
+Noida,Sector 62,Apartment,4,4,1416,Furnished,7,5,51000,Premium,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,Apartment,4,3,1496,Semi-Furnished,14,9,33500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Koramangala,Apartment,4,3,1696,Semi-Furnished,11,0,68500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 17,Independent House,3,3,1383,Unfurnished,2,2,42000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Hazratganj,Independent House,4,4,1892,Semi-Furnished,2,10,39500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 22,Villa,6,6,3894,Semi-Furnished,2,1,172000,Premium,2,Premium / Spacious
+Panchkula,Sector 7,Independent House,4,4,1964,Semi-Furnished,1,8,55500,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,Apartment,3,3,1107,Furnished,10,1,43000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sector 56,Apartment,2,1,668,Furnished,11,5,30000,Mid-Range,0,Budget / Compact
+Lucknow,Indira Nagar,Apartment,3,2,1104,Furnished,17,0,19500,Affordable,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,2,2,696,Semi-Furnished,0,5,28000,Mid-Range,0,Budget / Compact
+Gurugram,Sector 56,Independent House,2,1,792,Unfurnished,0,9,32000,Mid-Range,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,4,3,1488,Semi-Furnished,19,8,29000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,Apartment,2,2,688,Furnished,13,4,59000,Premium,0,Budget / Compact
+Delhi,Rohini,Apartment,4,3,1220,Furnished,0,8,56000,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,PG/Studio,1,1,155,Semi-Furnished,1,0,5000,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,2,1,668,Unfurnished,19,8,11000,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Apartment,2,1,618,Furnished,17,4,24500,Mid-Range,0,Budget / Compact
+Delhi,Dwarka,Apartment,3,3,1098,Semi-Furnished,16,7,54500,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,Apartment,3,3,1236,Furnished,13,3,26500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Madhapur,PG/Studio,1,1,226,Semi-Furnished,3,0,6500,Affordable,0,Budget / Compact
+Jaipur,Mansarovar,Apartment,1,1,359,Furnished,11,3,8000,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,Independent House,3,2,1050,Semi-Furnished,2,2,48000,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Apartment,1,1,403,Semi-Furnished,1,10,7000,Affordable,0,Budget / Compact
+Noida,Sector 62,PG/Studio,1,1,240,Furnished,0,0,7000,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,3,2,999,Semi-Furnished,7,10,36500,Mid-Range,1,Mid-Range / Standard
+Bengaluru,HSR Layout,Apartment,2,1,786,Unfurnished,0,5,29000,Mid-Range,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,3,3,1248,Unfurnished,18,4,54000,Premium,1,Mid-Range / Standard
+Pune,Baner,Apartment,3,3,1089,Semi-Furnished,2,5,38000,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Madhapur,Apartment,4,3,1612,Furnished,2,6,60000,Premium,1,Mid-Range / Standard
+Hyderabad,Kukatpally,Apartment,1,1,372,Furnished,7,7,14000,Affordable,0,Budget / Compact
+Noida,Sector 18,Apartment,3,2,1068,Unfurnished,5,10,30000,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 62,Villa,5,4,2632,Semi-Furnished,0,3,113500,Premium,2,Premium / Spacious
+Mohali,Sector 71,Apartment,3,3,999,Furnished,5,7,27500,Mid-Range,1,Mid-Range / Standard
+Lucknow,Aliganj,Apartment,3,2,927,Unfurnished,9,0,14000,Affordable,1,Mid-Range / Standard
+Delhi,Janakpuri,Apartment,2,2,610,Furnished,14,6,29000,Mid-Range,0,Budget / Compact
+Jaipur,Vaishali Nagar,Apartment,4,4,1612,Unfurnished,6,8,31500,Mid-Range,1,Mid-Range / Standard
+Jaipur,C-Scheme,Apartment,3,2,1173,Furnished,2,5,24000,Mid-Range,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,4,3,842,Unfurnished,14,10,60500,Premium,1,Mid-Range / Standard
+Chandigarh,Manimajra,Apartment,1,1,425,Furnished,2,7,16500,Affordable,0,Budget / Compact
+Mumbai,Navi Mumbai,Apartment,2,2,606,Furnished,2,0,52000,Premium,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,2,2,668,Semi-Furnished,14,7,22500,Mid-Range,0,Budget / Compact
+Noida,Sector 62,Apartment,4,3,1400,Semi-Furnished,16,2,41500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Manimajra,Apartment,2,1,784,Semi-Furnished,13,10,26500,Mid-Range,0,Budget / Compact
+Gurugram,DLF Phase 3,Independent House,5,4,2375,Semi-Furnished,0,10,118000,Premium,2,Premium / Spacious
+Lucknow,Indira Nagar,PG/Studio,1,1,194,Furnished,3,9,3500,Affordable,0,Budget / Compact
+Mumbai,Andheri West,PG/Studio,1,1,176,Semi-Furnished,1,7,11500,Affordable,0,Budget / Compact
+Gurugram,Sohna Road,Villa,5,5,2325,Semi-Furnished,0,2,142500,Premium,2,Premium / Spacious
+Panchkula,Sector 15,Apartment,1,1,373,Unfurnished,16,2,8000,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Apartment,1,1,305,Unfurnished,4,6,9000,Affordable,0,Budget / Compact
+Mumbai,Thane West,Apartment,3,3,1266,Unfurnished,0,4,81000,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,PG/Studio,1,1,231,Furnished,0,0,4500,Affordable,0,Budget / Compact
+Gurugram,Sector 56,Apartment,2,1,626,Unfurnished,6,3,25500,Mid-Range,0,Budget / Compact
+Gurugram,DLF Phase 3,Independent House,2,1,744,Semi-Furnished,1,5,30000,Mid-Range,0,Budget / Compact
+Hyderabad,Banjara Hills,PG/Studio,1,1,271,Semi-Furnished,1,9,8000,Affordable,0,Budget / Compact
+Gurugram,Sohna Road,Apartment,1,1,344,Semi-Furnished,7,2,15000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,PG/Studio,1,1,221,Unfurnished,3,3,4000,Affordable,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,1,1,406,Semi-Furnished,8,3,12000,Affordable,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,3,2,987,Furnished,0,2,20500,Mid-Range,1,Mid-Range / Standard
+Delhi,Rohini,Independent House,4,4,1516,Furnished,1,1,83000,Premium,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,2,2,834,Semi-Furnished,15,10,36500,Mid-Range,0,Budget / Compact
+Bengaluru,Whitefield,Independent House,5,5,1990,Furnished,1,8,100500,Premium,2,Premium / Spacious
+Noida,Sector 75,Villa,3,3,1692,Furnished,0,4,88500,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Apartment,3,2,1179,Semi-Furnished,4,5,36000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Whitefield,PG/Studio,1,1,255,Furnished,3,7,10500,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Apartment,4,3,1568,Semi-Furnished,11,1,52500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 15,PG/Studio,1,1,256,Unfurnished,1,1,4500,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,PG/Studio,1,1,125,Semi-Furnished,1,10,3000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Apartment,4,3,1592,Semi-Furnished,0,2,37500,Mid-Range,1,Mid-Range / Standard
+Pune,Hinjewadi,Independent House,3,2,1083,Unfurnished,1,5,33500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,1,1,330,Unfurnished,2,3,9000,Affordable,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,1,1,412,Semi-Furnished,9,3,8500,Affordable,0,Budget / Compact
+Noida,Sector 75,Apartment,1,1,359,Semi-Furnished,15,7,11500,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Villa,3,2,1710,Unfurnished,1,7,78000,Premium,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,3,3,1188,Semi-Furnished,19,6,51000,Premium,1,Mid-Range / Standard
+Gurugram,Golf Course Road,Apartment,4,3,1500,Unfurnished,19,10,58500,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Independent House,3,2,1146,Semi-Furnished,1,4,21500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Manimajra,Villa,6,6,3006,Semi-Furnished,0,0,134000,Premium,2,Premium / Spacious
+Chandigarh,Sector 22,Apartment,2,2,678,Semi-Furnished,5,3,19500,Affordable,0,Budget / Compact
+Pune,Wakad,Apartment,4,3,1308,Unfurnished,2,6,39000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Borivali,PG/Studio,1,1,223,Furnished,0,6,19500,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Apartment,2,2,690,Semi-Furnished,14,2,24500,Mid-Range,0,Budget / Compact
+Panchkula,Sector 7,Independent House,3,2,1404,Unfurnished,2,10,34500,Mid-Range,1,Mid-Range / Standard
+Jaipur,C-Scheme,Independent House,2,1,878,Unfurnished,0,10,17500,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,3,2,1008,Furnished,8,2,22000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 5,Apartment,1,1,421,Semi-Furnished,20,5,10000,Affordable,0,Budget / Compact
+Pune,Hinjewadi,PG/Studio,1,1,240,Semi-Furnished,0,1,7500,Affordable,0,Budget / Compact
+Mohali,Phase 5,Independent House,5,5,1910,Unfurnished,1,3,42000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Manimajra,Independent House,3,2,1458,Semi-Furnished,0,4,45500,Premium,1,Mid-Range / Standard
+Jaipur,Mansarovar,PG/Studio,1,1,248,Furnished,1,8,5500,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Apartment,1,1,395,Semi-Furnished,17,6,16500,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Villa,4,3,2060,Unfurnished,0,4,48000,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,PG/Studio,1,1,149,Unfurnished,1,7,3000,Affordable,0,Budget / Compact
+Pune,Baner,Independent House,5,5,1448,Furnished,0,3,99500,Premium,1,Mid-Range / Standard
+Mumbai,Borivali,Apartment,2,2,608,Semi-Furnished,20,10,55000,Premium,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,4,4,1236,Unfurnished,10,5,49500,Premium,1,Mid-Range / Standard
+Gurugram,Sohna Road,Villa,5,4,2315,Furnished,2,2,155500,Premium,2,Premium / Spacious
+Mumbai,Powai,Apartment,4,3,1632,Semi-Furnished,8,6,131000,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,Independent House,2,1,946,Unfurnished,1,5,18000,Affordable,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,3,3,1044,Furnished,17,8,50000,Premium,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Independent House,3,3,1248,Unfurnished,1,5,22000,Mid-Range,1,Mid-Range / Standard
+Mohali,Phase 5,PG/Studio,1,1,132,Unfurnished,1,10,3000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Apartment,2,1,718,Semi-Furnished,14,4,29000,Mid-Range,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,4,4,1568,Unfurnished,3,6,24500,Mid-Range,1,Mid-Range / Standard
+Noida,Sector 75,Independent House,2,1,826,Furnished,2,4,30500,Mid-Range,0,Budget / Compact
+Delhi,Rohini,Apartment,1,1,340,Semi-Furnished,20,3,13500,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,Apartment,2,2,854,Unfurnished,0,5,12500,Affordable,0,Budget / Compact
+Noida,Sector 75,Apartment,4,3,1564,Furnished,0,8,52500,Premium,1,Mid-Range / Standard
+Noida,Sector 62,Apartment,3,3,1176,Semi-Furnished,12,2,33000,Mid-Range,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Apartment,2,2,792,Semi-Furnished,10,3,36000,Mid-Range,0,Budget / Compact
+Bengaluru,HSR Layout,Apartment,4,3,1356,Semi-Furnished,13,1,51500,Premium,1,Mid-Range / Standard
+Bengaluru,Electronic City,PG/Studio,1,1,252,Unfurnished,3,5,8000,Affordable,0,Budget / Compact
+Mumbai,Andheri West,Apartment,3,3,1062,Unfurnished,18,1,70000,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Apartment,2,1,744,Unfurnished,18,3,19500,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Apartment,1,1,354,Semi-Furnished,11,2,11500,Affordable,0,Budget / Compact
+Mumbai,Thane West,Independent House,2,2,952,Semi-Furnished,1,7,81000,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Apartment,1,1,377,Furnished,3,4,14000,Affordable,0,Budget / Compact
+Mumbai,Thane West,Independent House,2,2,902,Semi-Furnished,0,0,67000,Premium,0,Budget / Compact
+Bengaluru,Koramangala,Apartment,3,2,842,Furnished,15,10,61500,Premium,1,Mid-Range / Standard
+Pune,Hinjewadi,Independent House,4,3,1900,Furnished,2,3,70000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 7,Independent House,5,5,2465,Semi-Furnished,2,5,66000,Premium,2,Premium / Spacious
+Delhi,Dwarka,Villa,5,4,3195,Semi-Furnished,2,0,189500,Premium,2,Premium / Spacious
+Mohali,Sector 70,Independent House,5,5,2240,Semi-Furnished,2,3,60000,Premium,1,Mid-Range / Standard
+Mumbai,Powai,PG/Studio,1,1,224,Unfurnished,2,2,13000,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Villa,5,5,2900,Furnished,2,4,160500,Premium,2,Premium / Spacious
+Panchkula,Sector 5,Villa,5,5,2555,Semi-Furnished,0,10,95500,Premium,2,Premium / Spacious
+Jaipur,Malviya Nagar,Independent House,3,3,1182,Furnished,0,8,32000,Mid-Range,1,Mid-Range / Standard
+Lucknow,Gomti Nagar,PG/Studio,1,1,211,Unfurnished,0,6,3000,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,Independent House,4,4,1420,Semi-Furnished,2,7,25000,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 15,Apartment,1,1,351,Semi-Furnished,0,8,8000,Affordable,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,4,4,1612,Unfurnished,0,3,62500,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Apartment,4,4,1624,Unfurnished,2,6,45500,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,Villa,6,5,2632,Furnished,2,0,162500,Premium,2,Premium / Spacious
+Gurugram,DLF Phase 3,PG/Studio,1,1,282,Furnished,1,9,12500,Affordable,0,Budget / Compact
+Pune,Hinjewadi,PG/Studio,1,1,148,Unfurnished,0,6,4000,Affordable,0,Budget / Compact
+Jaipur,C-Scheme,Apartment,4,3,1512,Unfurnished,8,3,24000,Mid-Range,1,Mid-Range / Standard
+Mumbai,Powai,PG/Studio,1,1,291,Semi-Furnished,1,3,19000,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Apartment,1,1,373,Unfurnished,13,10,15500,Affordable,0,Budget / Compact
+Mumbai,Thane West,Apartment,3,3,1188,Unfurnished,20,4,75500,Premium,1,Mid-Range / Standard
+Chandigarh,Manimajra,Independent House,5,5,2315,Semi-Furnished,2,4,77000,Premium,2,Premium / Spacious
+Chandigarh,Manimajra,Independent House,5,4,2225,Furnished,0,1,92000,Premium,2,Premium / Spacious
+Mohali,Sector 71,Apartment,3,3,900,Furnished,6,9,28000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Independent House,4,3,1952,Semi-Furnished,2,7,95500,Premium,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,Independent House,2,2,938,Semi-Furnished,1,9,42000,Mid-Range,0,Budget / Compact
+Bengaluru,Electronic City,Apartment,4,3,1428,Unfurnished,5,9,55500,Premium,1,Mid-Range / Standard
+Noida,Sector 137,PG/Studio,1,1,286,Semi-Furnished,1,2,7500,Affordable,0,Budget / Compact
+Hyderabad,Kukatpally,Villa,6,6,3306,Semi-Furnished,1,10,162500,Premium,2,Premium / Spacious
+Pune,Kothrud,Independent House,2,1,746,Semi-Furnished,1,3,25500,Mid-Range,0,Budget / Compact
+Mumbai,Thane West,Apartment,4,4,1452,Semi-Furnished,2,4,106000,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 35,Apartment,2,2,828,Unfurnished,7,3,23000,Mid-Range,0,Budget / Compact
+Hyderabad,Banjara Hills,Apartment,3,2,924,Unfurnished,8,5,28000,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sohna Road,Independent House,4,4,1652,Furnished,2,7,95000,Premium,1,Mid-Range / Standard
+Delhi,Rohini,Independent House,2,1,912,Unfurnished,1,0,34500,Mid-Range,0,Budget / Compact
+Hyderabad,Kukatpally,Independent House,5,4,1880,Furnished,2,1,77000,Premium,1,Mid-Range / Standard
+Pune,Wakad,Apartment,3,2,1221,Furnished,1,3,44500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,Apartment,2,2,734,Semi-Furnished,7,5,25500,Mid-Range,0,Budget / Compact
+Mohali,Sector 82,Apartment,2,2,602,Unfurnished,11,0,14500,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Apartment,1,1,342,Semi-Furnished,20,1,9000,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Apartment,3,2,1134,Unfurnished,19,10,25000,Mid-Range,1,Mid-Range / Standard
+Delhi,Rohini,Apartment,3,2,1092,Semi-Furnished,0,3,44000,Mid-Range,1,Mid-Range / Standard
+Delhi,Janakpuri,PG/Studio,1,1,299,Semi-Furnished,3,0,10000,Affordable,0,Budget / Compact
+Noida,Sector 18,Independent House,2,2,968,Semi-Furnished,0,6,29500,Mid-Range,0,Budget / Compact
+Lucknow,Hazratganj,Independent House,2,2,710,Furnished,2,7,17000,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Independent House,4,3,1868,Unfurnished,0,8,44000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 82,Apartment,2,1,622,Semi-Furnished,17,5,17000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Villa,5,5,2740,Semi-Furnished,0,5,172500,Premium,2,Premium / Spacious
+Mohali,Phase 5,Apartment,2,1,730,Semi-Furnished,4,3,19500,Affordable,0,Budget / Compact
+Mumbai,Andheri West,Apartment,3,3,912,Furnished,3,5,77500,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,Apartment,3,3,1170,Unfurnished,0,2,25500,Mid-Range,1,Mid-Range / Standard
+Lucknow,Gomti Nagar,Villa,4,3,2196,Furnished,2,7,68000,Premium,1,Mid-Range / Standard
+Mumbai,Navi Mumbai,Apartment,4,3,1256,Unfurnished,2,3,81000,Premium,1,Mid-Range / Standard
+Pune,Kothrud,Apartment,4,4,1596,Semi-Furnished,1,8,53500,Premium,1,Mid-Range / Standard
+Gurugram,Sohna Road,Apartment,3,2,1185,Furnished,13,1,62000,Premium,1,Mid-Range / Standard
+Bengaluru,Whitefield,Independent House,5,4,2395,Semi-Furnished,0,5,101000,Premium,2,Premium / Spacious
+Bengaluru,Electronic City,Villa,6,5,3090,Unfurnished,0,2,164500,Premium,2,Premium / Spacious
+Mohali,Sector 71,Apartment,4,4,1512,Unfurnished,0,1,33000,Mid-Range,1,Mid-Range / Standard
+Pune,Wakad,Villa,4,4,2536,Unfurnished,2,6,103000,Premium,2,Premium / Spacious
+Delhi,Janakpuri,Independent House,3,2,1389,Unfurnished,0,5,57000,Premium,1,Mid-Range / Standard
+Noida,Sector 137,Apartment,4,4,1352,Furnished,12,1,46500,Premium,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,1,1,380,Semi-Furnished,1,9,12000,Affordable,0,Budget / Compact
+Hyderabad,Gachibowli,Apartment,4,3,1488,Semi-Furnished,15,6,48500,Premium,1,Mid-Range / Standard
+Pune,Wakad,Apartment,2,2,706,Unfurnished,3,8,22000,Mid-Range,0,Budget / Compact
+Mohali,Sector 71,Apartment,4,4,842,Furnished,0,5,48500,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,PG/Studio,1,1,182,Furnished,2,6,3000,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,Villa,6,5,2958,Semi-Furnished,2,9,77500,Premium,2,Premium / Spacious
+Hyderabad,Kukatpally,Independent House,5,4,2410,Furnished,1,5,96000,Premium,2,Premium / Spacious
+Lucknow,Indira Nagar,Apartment,4,3,1544,Semi-Furnished,11,0,25500,Mid-Range,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Independent House,3,3,1380,Semi-Furnished,2,0,62000,Premium,1,Mid-Range / Standard
+Hyderabad,Banjara Hills,PG/Studio,1,1,169,Unfurnished,1,2,4500,Affordable,0,Budget / Compact
+Mohali,Sector 71,Apartment,3,3,1014,Unfurnished,18,10,24500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Powai,Apartment,4,3,1644,Unfurnished,8,5,111000,Premium,1,Mid-Range / Standard
+Noida,Sector 75,Apartment,2,1,730,Furnished,13,6,26500,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 44,Apartment,4,3,1356,Semi-Furnished,20,6,43500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 5,PG/Studio,1,1,250,Unfurnished,3,6,4000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Independent House,5,5,2335,Furnished,1,0,112500,Premium,2,Premium / Spacious
+Bengaluru,Koramangala,Apartment,1,1,368,Semi-Furnished,2,2,15000,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,2,1,836,Semi-Furnished,3,3,17000,Affordable,0,Budget / Compact
+Lucknow,Aliganj,Villa,4,3,2496,Semi-Furnished,1,2,61500,Premium,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,Apartment,4,4,1424,Semi-Furnished,20,10,63500,Premium,1,Mid-Range / Standard
+Panchkula,Sector 7,Apartment,3,3,1161,Semi-Furnished,15,0,29000,Mid-Range,1,Mid-Range / Standard
+Pune,Kothrud,Independent House,4,4,1448,Semi-Furnished,2,9,74500,Premium,1,Mid-Range / Standard
+Pune,Hinjewadi,PG/Studio,1,1,145,Furnished,2,8,5000,Affordable,0,Budget / Compact
+Jaipur,Malviya Nagar,Apartment,2,2,844,Unfurnished,13,3,15000,Affordable,0,Budget / Compact
+Chandigarh,Manimajra,Independent House,5,4,2460,Semi-Furnished,0,7,91000,Premium,2,Premium / Spacious
+Panchkula,Sector 20,Apartment,2,1,686,Semi-Furnished,3,7,18000,Affordable,0,Budget / Compact
+Gurugram,Sohna Road,Apartment,3,3,1149,Semi-Furnished,12,2,55000,Premium,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,1,1,321,Semi-Furnished,19,7,10000,Affordable,0,Budget / Compact
+Jaipur,Vaishali Nagar,Apartment,4,3,1704,Unfurnished,17,0,30000,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Sector 17,PG/Studio,1,1,212,Semi-Furnished,2,8,8000,Affordable,0,Budget / Compact
+Mumbai,Powai,Villa,5,4,2750,Unfurnished,1,8,266000,Premium,2,Premium / Spacious
+Chandigarh,Sector 17,Apartment,1,1,415,Unfurnished,19,8,13000,Affordable,0,Budget / Compact
+Gurugram,Sohna Road,Villa,6,6,3048,Semi-Furnished,1,10,186500,Premium,2,Premium / Spacious
+Mohali,Sector 71,Apartment,2,2,606,Furnished,13,8,20500,Mid-Range,0,Budget / Compact
+Mohali,Kharar Road,Apartment,3,2,1170,Furnished,9,7,35500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 7,Villa,3,3,1740,Furnished,0,9,71000,Premium,1,Mid-Range / Standard
+Hyderabad,Madhapur,PG/Studio,1,1,299,Furnished,1,5,9500,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Villa,6,6,2724,Semi-Furnished,1,5,94000,Premium,2,Premium / Spacious
+Lucknow,Gomti Nagar,Apartment,4,3,1248,Semi-Furnished,6,9,20000,Affordable,1,Mid-Range / Standard
+Delhi,Dwarka,Apartment,1,1,318,Semi-Furnished,14,0,11500,Affordable,0,Budget / Compact
+Delhi,Saket,Apartment,2,1,718,Unfurnished,20,4,26000,Mid-Range,0,Budget / Compact
+Chandigarh,Manimajra,Villa,4,3,2472,Semi-Furnished,1,2,117000,Premium,2,Premium / Spacious
+Lucknow,Hazratganj,PG/Studio,1,1,271,Semi-Furnished,2,10,4500,Affordable,0,Budget / Compact
+Delhi,Dwarka,Independent House,3,2,1212,Semi-Furnished,0,1,56000,Premium,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Independent House,3,3,1107,Unfurnished,2,8,52500,Premium,1,Mid-Range / Standard
+Noida,Sector 18,Apartment,4,4,1372,Semi-Furnished,16,9,47000,Premium,1,Mid-Range / Standard
+Mohali,Kharar Road,Apartment,1,1,371,Semi-Furnished,5,9,9500,Affordable,0,Budget / Compact
+Lucknow,Indira Nagar,Apartment,2,2,634,Unfurnished,19,9,12000,Affordable,0,Budget / Compact
+Pune,Hinjewadi,Independent House,3,3,1170,Semi-Furnished,2,3,42000,Mid-Range,1,Mid-Range / Standard
+Delhi,Lajpat Nagar,Independent House,5,5,2300,Semi-Furnished,1,3,99500,Premium,2,Premium / Spacious
+Hyderabad,Kukatpally,Apartment,4,3,1584,Semi-Furnished,10,5,57500,Premium,1,Mid-Range / Standard
+Mohali,Sector 70,Independent House,5,4,2215,Semi-Furnished,2,2,55000,Premium,1,Mid-Range / Standard
+Lucknow,Aliganj,PG/Studio,1,1,183,Unfurnished,1,10,3000,Affordable,0,Budget / Compact
+Gurugram,Sector 56,Independent House,2,1,728,Semi-Furnished,0,1,33000,Mid-Range,0,Budget / Compact
+Pune,Kothrud,Apartment,3,2,1218,Unfurnished,13,3,34500,Mid-Range,1,Mid-Range / Standard
+Chandigarh,Manimajra,Apartment,1,1,388,Furnished,11,5,13500,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Apartment,2,2,632,Semi-Furnished,7,3,16000,Affordable,0,Budget / Compact
+Bengaluru,Whitefield,PG/Studio,1,1,254,Unfurnished,1,3,8000,Affordable,0,Budget / Compact
+Panchkula,Sector 5,PG/Studio,1,1,178,Semi-Furnished,0,7,4000,Affordable,0,Budget / Compact
+Panchkula,Sector 20,Independent House,3,3,1104,Semi-Furnished,2,3,25500,Mid-Range,1,Mid-Range / Standard
+Panchkula,Sector 20,Apartment,1,1,352,Semi-Furnished,18,10,10000,Affordable,0,Budget / Compact
+Mumbai,Borivali,Apartment,2,2,710,Semi-Furnished,13,8,57000,Premium,0,Budget / Compact
+Lucknow,Gomti Nagar,Independent House,5,5,2335,Semi-Furnished,1,8,40000,Mid-Range,1,Mid-Range / Standard
+Mohali,Sector 71,Apartment,3,3,999,Unfurnished,14,4,25500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Powai,Apartment,2,1,722,Semi-Furnished,3,10,48000,Premium,0,Budget / Compact
+Chandigarh,Sector 17,Villa,6,6,3450,Unfurnished,2,2,156500,Premium,2,Premium / Spacious
+Bengaluru,Electronic City,Apartment,2,2,712,Furnished,2,0,33500,Mid-Range,0,Budget / Compact
+Lucknow,Aliganj,Villa,5,4,2410,Semi-Furnished,0,0,54500,Premium,1,Mid-Range / Standard
+Gurugram,Sector 56,Villa,3,3,2632,Furnished,2,8,145000,Premium,2,Premium / Spacious
+Lucknow,Gomti Nagar,Villa,6,5,3420,Unfurnished,2,2,81500,Premium,2,Premium / Spacious
+Delhi,Rohini,Villa,5,5,2910,Semi-Furnished,2,3,173500,Premium,2,Premium / Spacious
+Lucknow,Hazratganj,Independent House,3,3,1263,Semi-Furnished,2,1,24500,Mid-Range,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Independent House,3,3,1448,Unfurnished,2,5,47000,Premium,1,Mid-Range / Standard
+Panchkula,Sector 7,Apartment,3,2,1068,Unfurnished,8,8,22000,Mid-Range,1,Mid-Range / Standard
+Bengaluru,Whitefield,Independent House,2,1,764,Furnished,1,9,45500,Premium,0,Budget / Compact
+Delhi,Dwarka,Villa,6,5,3810,Semi-Furnished,0,0,231000,Premium,2,Premium / Spacious
+Chandigarh,Sector 17,Apartment,1,1,428,Furnished,19,10,17000,Affordable,0,Budget / Compact
+Chandigarh,Sector 17,Apartment,1,1,313,Semi-Furnished,12,10,10500,Affordable,0,Budget / Compact
+Gurugram,Sohna Road,PG/Studio,1,1,193,Unfurnished,3,7,6500,Affordable,0,Budget / Compact
+Mumbai,Powai,Apartment,3,2,1266,Unfurnished,2,3,75000,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Independent House,2,1,830,Furnished,0,5,32500,Mid-Range,0,Budget / Compact
+Mumbai,Powai,Independent House,5,4,1920,Unfurnished,2,10,154500,Premium,2,Premium / Spacious
+Mumbai,Powai,PG/Studio,1,1,212,Furnished,3,3,22500,Mid-Range,0,Budget / Compact
+Mohali,Sector 82,Apartment,2,1,634,Semi-Furnished,6,8,17000,Affordable,0,Budget / Compact
+Mumbai,Navi Mumbai,Apartment,1,1,414,Unfurnished,12,6,29000,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 44,Independent House,2,2,950,Semi-Furnished,1,0,32000,Mid-Range,0,Budget / Compact
+Mumbai,Andheri West,Apartment,1,1,376,Semi-Furnished,17,2,27500,Mid-Range,0,Budget / Compact
+Chandigarh,Sector 22,Villa,6,6,3540,Furnished,2,4,182000,Premium,2,Premium / Spacious
+Mumbai,Borivali,Independent House,4,3,1500,Semi-Furnished,0,10,138000,Premium,1,Mid-Range / Standard
+Hyderabad,Gachibowli,Apartment,1,1,358,Semi-Furnished,0,0,10500,Affordable,0,Budget / Compact
+Hyderabad,Madhapur,Villa,5,5,3185,Furnished,2,8,200500,Premium,2,Premium / Spacious
+Mohali,Sector 82,PG/Studio,1,1,217,Unfurnished,2,6,4500,Affordable,0,Budget / Compact
+Lucknow,Gomti Nagar,Apartment,2,2,842,Semi-Furnished,9,4,15000,Affordable,0,Budget / Compact
+Chandigarh,Sector 35,Apartment,4,3,1664,Unfurnished,7,10,51500,Premium,1,Mid-Range / Standard
+Chandigarh,Sector 35,Independent House,5,5,1840,Semi-Furnished,0,8,70500,Premium,1,Mid-Range / Standard
+Jaipur,C-Scheme,Villa,6,5,2632,Semi-Furnished,0,4,104500,Premium,2,Premium / Spacious
+Mumbai,Borivali,Independent House,4,3,1856,Furnished,1,1,164000,Premium,2,Premium / Spacious
+Pune,Kothrud,Apartment,1,1,332,Furnished,10,8,13500,Affordable,0,Budget / Compact
+Mumbai,Thane West,Apartment,3,3,1068,Unfurnished,20,0,68500,Premium,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Independent House,5,5,2335,Semi-Furnished,1,2,113000,Premium,2,Premium / Spacious
+Bengaluru,Whitefield,Apartment,2,1,798,Furnished,12,4,37000,Mid-Range,0,Budget / Compact
+Jaipur,Vaishali Nagar,Villa,4,4,2216,Semi-Furnished,1,1,56500,Premium,1,Mid-Range / Standard
+Lucknow,Hazratganj,Independent House,3,3,1230,Semi-Furnished,0,5,25500,Mid-Range,1,Mid-Range / Standard
+Gurugram,Sector 56,PG/Studio,1,1,179,Furnished,1,5,8000,Affordable,0,Budget / Compact
+Bengaluru,Koramangala,Apartment,1,1,304,Furnished,3,6,14500,Affordable,0,Budget / Compact
+Gurugram,DLF Phase 3,Apartment,1,1,320,Unfurnished,8,10,13000,Affordable,0,Budget / Compact
+Panchkula,Sector 7,Apartment,3,2,1125,Unfurnished,14,1,25000,Mid-Range,1,Mid-Range / Standard
+Jaipur,Vaishali Nagar,PG/Studio,1,1,250,Furnished,2,7,4500,Affordable,0,Budget / Compact
+Delhi,Janakpuri,Apartment,4,4,1696,Furnished,20,7,86500,Premium,1,Mid-Range / Standard
+Lucknow,Indira Nagar,Apartment,1,1,425,Semi-Furnished,16,4,7500,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Apartment,3,2,957,Unfurnished,3,0,14500,Affordable,1,Mid-Range / Standard
+Gurugram,DLF Phase 3,Independent House,4,3,1784,Unfurnished,1,10,79500,Premium,1,Mid-Range / Standard
+Mumbai,Thane West,Apartment,3,3,1080,Semi-Furnished,15,0,82000,Premium,1,Mid-Range / Standard
+Mohali,Sector 71,Villa,4,3,1940,Furnished,1,4,86500,Premium,1,Mid-Range / Standard
+Gurugram,Sohna Road,PG/Studio,1,1,144,Unfurnished,3,6,5000,Affordable,0,Budget / Compact
+Lucknow,Gomti Nagar,Independent House,2,2,852,Semi-Furnished,0,1,18000,Affordable,0,Budget / Compact
+Delhi,Dwarka,PG/Studio,1,1,235,Furnished,1,5,8500,Affordable,0,Budget / Compact
+Noida,Sector 75,Apartment,1,1,392,Furnished,4,9,15000,Affordable,0,Budget / Compact
+Lucknow,Hazratganj,Independent House,4,4,1420,Semi-Furnished,0,7,27500,Mid-Range,1,Mid-Range / Standard
+Mumbai,Andheri West,PG/Studio,1,1,163,Semi-Furnished,0,0,10000,Affordable,0,Budget / Compact
+Mohali,Sector 70,Apartment,1,1,337,Semi-Furnished,13,5,9000,Affordable,0,Budget / Compact
+Panchkula,Sector 5,Apartment,2,1,762,Semi-Furnished,17,4,19000,Affordable,0,Budget / Compact
+Panchkula,Sector 20,Independent House,2,2,900,Semi-Furnished,0,7,22000,Mid-Range,0,Budget / Compact

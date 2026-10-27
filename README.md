@@ -1,0 +1,409 @@
+# RentEasy: Rental Property Management System
+
+A full-stack rental platform for the Indian market. Property owners list rentals, tenants search and send inquiries, and a machine learning model estimates a fair monthly rent. The same dataset feeds SQL, Excel and Tableau analytics.
+
+Built as the unified MCA Semester 3 project at **Chandigarh University, University Institute of Computing (UIC)**.
+
+| Subject | What this project covers |
+|---|---|
+| Backend Technologies | Node.js, Express 4, MongoDB, Mongoose, JWT authentication, role-based access |
+| Machine Learning | Rent prediction, price classification, K-Means clustering (scikit-learn), joblib model |
+| Business Analytics | MySQL queries, Excel formulas and pivots, Tableau report and dashboard |
+| Technical Training | React, Bootstrap, protected routes, REST integration, Git and GitHub, local deployment |
+
+---
+
+## Table of Contents
+1. [Features](#features)
+2. [Tech Stack](#tech-stack)
+3. [Architecture](#architecture)
+4. [Folder Structure](#folder-structure)
+5. [Prerequisites](#prerequisites)
+6. [Setup and Run](#setup-and-run)
+7. [Environment Variables](#environment-variables)
+8. [Demo Logins and Seed Data](#demo-logins-and-seed-data)
+9. [API Reference](#api-reference)
+10. [Machine Learning Module](#machine-learning-module)
+11. [Analytics: SQL, Excel, Tableau](#analytics-sql-excel-tableau)
+12. [Frontend Pages](#frontend-pages)
+13. [Testing](#testing)
+14. [Security](#security)
+15. [Troubleshooting](#troubleshooting)
+16. [Future Scope](#future-scope)
+17. [Author](#author)
+
+---
+
+## Features
+
+**Tenant**
+- Browse and search properties by city, locality, type, bedrooms, furnishing and rent range
+- Sort by newest, rent low to high, rent high to low, with pagination
+- Register, log in and send an inquiry to the owner
+- Track inquiries (Pending, Accepted, Rejected) and withdraw pending ones
+- Rent Estimator page and a "compare with market estimate" button on every listing
+
+**Owner**
+- Add, edit and delete their own properties
+- Dashboard with stats: total, available, rented, pending inquiries
+- View inquiries received, with tenant contact details, and accept or reject them
+
+**Platform**
+- JWT authentication, bcrypt password hashing, owner and tenant roles
+- Protected routes on the frontend and the backend
+- ML-based rent estimate with price category and likely range
+- Indian sample data: 12 cities, real localities, rents in INR
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Frontend | React 18, Vite 6, React Router 6, Bootstrap 5.3, Axios |
+| Backend | Node.js, Express 4, Mongoose, jsonwebtoken, bcryptjs, dotenv, cors |
+| Database (app) | MongoDB (database `rental_db`) |
+| Database (analytics) | MySQL 8 (database `rental_analytics`) |
+| Machine Learning | Python 3, NumPy, Pandas, Matplotlib, Seaborn, SciPy, scikit-learn, joblib |
+| Analytics tools | MySQL Workbench, Microsoft Excel, Tableau Public |
+| Tooling | Git, GitHub, VS Code, REST Client extension |
+
+---
+
+## Architecture
+
+```
+React + Bootstrap (port 5173)
+        |  Axios + JWT (Authorization: Bearer <token>)
+        v
+Express REST API (port 5000)
+   |-- routes -> middleware (auth, role) -> controllers -> Mongoose models -> MongoDB
+   |-- /api/predict-rent -> spawns Python (ml/predict.py) -> scikit-learn model (joblib)
+
+MongoDB --(npm run export-sql)--> MySQL scripts + CSV files --> Excel / Tableau
+```
+
+---
+
+## Folder Structure
+
+```
+rental-property-system/
+├── README.md
+├── .gitignore
+├── ml/
+│   ├── rental_ml.py            # data generation, preprocessing, models, evaluation, joblib export
+│   ├── predict.py              # called by the Node API for rent estimates
+│   ├── requirements.txt
+│   ├── sample_input.json
+│   ├── data/                   # raw and clean CSV (created by rental_ml.py)
+│   ├── models/                 # .joblib models and metrics.json
+│   └── plots/                  # 7 charts (EDA, confusion matrices, elbow, clusters)
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── .env.example
+│   ├── api-tests.http          # request collection for the REST Client extension
+│   ├── config/db.js
+│   ├── models/                 # User.js, Property.js, Inquiry.js
+│   ├── middleware/             # asyncHandler.js, auth.js, role.js, errorHandler.js
+│   ├── controllers/            # auth, property, inquiry, ml
+│   ├── routes/                 # authRoutes, propertyRoutes, inquiryRoutes, mlRoutes
+│   └── seed/                   # seed.js, export_sql.js
+├── frontend/
+│   ├── index.html
+│   ├── vite.config.js
+│   ├── package.json
+│   └── src/
+│       ├── main.jsx, App.jsx, index.css, constants.js
+│       ├── api/axios.js
+│       ├── context/AuthContext.jsx
+│       ├── components/         # Navbar, PropertyCard, SearchFilter, ProtectedRoute, InquiryModal, PropertyForm
+│       └── pages/              # Home, Properties, PropertyDetail, Login, Register, Dashboard, RentEstimator
+├── sql/
+│   ├── 01_schema.sql           # MySQL DDL
+│   ├── 02_insert_data.sql      # generated by npm run export-sql
+│   ├── 03_queries.sql          # analytics queries
+│   └── data/                   # CSV files for Excel and Tableau
+└── docs/
+    ├── screenshots/            # ml, backend_postman, sql, excel, tableau, frontend
+    └── diagrams/
+```
+
+---
+
+## Prerequisites
+
+| Tool | Version used |
+|---|---|
+| Node.js and npm | Node 24, npm 11 (Node 20 or newer works) |
+| Python | 3.12 or newer (tested on 3.14) |
+| MongoDB Community Server | 7 or newer (tested on 8.3) |
+| MySQL Server and Workbench | 8.0 |
+| Git | 2.x |
+| Optional | Tableau Public, Microsoft Excel, VS Code with the REST Client extension |
+
+Check them:
+```bash
+node -v && npm -v && python --version && git --version
+mongosh "mongodb://127.0.0.1:27017"
+```
+
+---
+
+## Setup and Run
+
+Use **three terminals**. On Windows with Git Bash, always use forward slashes in paths (`src/api`, not `src\api`).
+
+### 1. Clone and open
+```bash
+git clone https://github.com/YOUR_USERNAME/rental-property-system.git
+cd rental-property-system
+```
+
+### 2. Train the ML model (once)
+```bash
+cd ml
+pip install -r requirements.txt
+python rental_ml.py
+```
+This creates `ml/data`, `ml/models` and `ml/plots`. The backend rent estimator needs the files in `ml/models`.
+
+Test the predictor:
+```bash
+python predict.py sample_input.json
+```
+Expected: one JSON line with `"success": true`, a predicted rent, a category and a range.
+
+### 3. Start the backend (terminal 1)
+```bash
+cd backend
+npm install
+cp .env.example .env        # then edit values if needed
+npm run seed                # loads Indian sample data
+npm run dev
+```
+Expected output:
+```
+Server running on http://localhost:5000
+MongoDB connected: 127.0.0.1/rental_db
+```
+Health check: http://localhost:5000/api/health
+
+### 4. Start the frontend (terminal 2)
+```bash
+cd frontend
+npm install
+npm run dev
+```
+Open **http://localhost:5173**
+
+### 5. Production build (local deployment)
+```bash
+cd frontend
+npm run build
+npm run preview
+```
+This serves the optimized build at http://localhost:5173. Keep the backend and MongoDB running.
+
+---
+
+## Environment Variables
+
+`backend/.env` (copy from `.env.example`):
+
+| Variable | Example | Purpose |
+|---|---|---|
+| `PORT` | `5000` | API port |
+| `MONGO_URI` | `mongodb://127.0.0.1:27017/rental_db` | MongoDB connection (use `127.0.0.1`, not `localhost`) |
+| `JWT_SECRET` | long random string | Signs login tokens |
+| `JWT_EXPIRES_IN` | `7d` | Token lifetime |
+| `CLIENT_URL` | `http://localhost:5173` | Allowed CORS origin, no trailing slash |
+| `PYTHON_CMD` | `python` | Command used to run `predict.py` (use `py` if `python` is not found) |
+
+Restart the backend after editing `.env`.
+
+---
+
+## Demo Logins and Seed Data
+
+`npm run seed` **clears** the users, properties and inquiries collections in `rental_db` and recreates them.
+
+| Role | Email | Password |
+|---|---|---|
+| Owner | rajesh.kumar@example.com | Owner@123 |
+| Owner | gurpreet.singh@example.com | Owner@123 |
+| Tenant | priya.sharma@example.com | Tenant@123 |
+| Tenant | rohan.mehta@example.com | Tenant@123 |
+
+All 9 owners use `Owner@123` and all 8 tenants use `Tenant@123`.
+
+| Collection | Records |
+|---|---|
+| Users | 17 (9 owners, 8 tenants) |
+| Properties | 60 (5 in each of 12 cities, about 30% marked Rented) |
+| Inquiries | 50 (spread over about 6 months, mixed statuses) |
+
+Cities: Chandigarh, Mohali, Panchkula, Delhi, Gurugram, Noida, Mumbai, Pune, Bengaluru, Hyderabad, Jaipur, Lucknow.
+
+---
+
+## API Reference
+
+Base URL: `http://localhost:5000/api`. Send the token as `Authorization: Bearer <token>`.
+
+| Method | Endpoint | Access | Description |
+|---|---|---|---|
+| GET | `/health` | Public | Server status |
+| POST | `/auth/register` | Public | Create an account (owner or tenant) |
+| POST | `/auth/login` | Public | Log in, returns a JWT |
+| GET | `/auth/me` | Logged in | Current user profile |
+| GET | `/properties` | Public | List with filters and pagination |
+| GET | `/properties/my` | Owner | Own listings |
+| GET | `/properties/:id` | Public | Single property with owner details |
+| POST | `/properties` | Owner | Add a property |
+| PUT | `/properties/:id` | Owner (own) | Update a property |
+| DELETE | `/properties/:id` | Owner (own) | Delete a property and its inquiries |
+| POST | `/inquiries` | Tenant | Send an inquiry (one per property) |
+| GET | `/inquiries/my` | Tenant | Inquiries I sent |
+| GET | `/inquiries/received` | Owner | Inquiries on my properties |
+| PUT | `/inquiries/:id` | Owner (own) | Accept or reject |
+| DELETE | `/inquiries/:id` | Tenant (own) | Withdraw a pending inquiry |
+| POST | `/predict-rent` | Logged in | ML rent estimate |
+
+**`GET /properties` query parameters:** `city`, `type`, `furnished`, `status` (default Available, `All` for everything), `search`, `minRent`, `maxRent`, `bedrooms` (minimum), `sort` (`newest`, `rent_asc`, `rent_desc`), `page`, `limit` (default 12, maximum 50).
+
+**Status codes:** 200 OK, 201 Created, 400 validation or duplicate, 401 missing or invalid token, 403 wrong role or not the owner, 404 not found.
+
+**Example: register**
+```bash
+curl -X POST http://localhost:5000/api/auth/register \
+  -H "Content-Type: application/json" \
+  -d '{"name":"Anita Rao","email":"anita.rao@example.com","password":"Tenant@123","role":"tenant","phone":"9876501234"}'
+```
+
+**Example: rent estimate**
+```json
+POST /api/predict-rent
+{ "city": "Mohali", "type": "Apartment", "furnished": "Semi-Furnished",
+  "bedrooms": 3, "bathrooms": 2, "areaSqFt": 1250, "floor": 4, "amenity_count": 6 }
+```
+Response: `predictedRent`, `priceCategory`, `rangeLow`, `rangeHigh`, and a `verdict` when an asking `rent` is sent.
+
+---
+
+## Machine Learning Module
+
+**Dataset:** synthetic data modelled on Indian rental market patterns (not scraped real data). 1,525 raw rows, reduced to 1,477 after removing 25 duplicates and 23 outliers (IQR method) and filling missing values. Split 80:20 (1,181 train, 296 test).
+
+**Pipeline:** exploration, duplicate removal, IQR outlier treatment, median and mode imputation, one-hot encoding, standard scaling, train-test split, model training, evaluation, joblib export.
+
+| Task | Algorithm | Result |
+|---|---|---|
+| Rent prediction | Linear Regression | R² 0.8248, MAE ₹10,748.61, MSE 313,697,854.30 |
+| Price category | Logistic Regression (best) | Accuracy 0.9223, F1 0.9228 |
+| Price category | Decision Tree | Accuracy 0.8209, F1 0.8240 |
+| Price category | k-NN | Accuracy 0.8581, F1 0.8587 |
+| Segmentation | K-Means (K = 3, silhouette 0.551) | Budget / Compact (699), Mid-Range / Standard (646), Premium / Spacious (132) |
+
+Price categories: Affordable below ₹20,000, Mid-Range ₹20,000 to ₹45,000, Premium above ₹45,000.
+
+**Outputs:** `ml/models/*.joblib` and `metrics.json`, plus 7 plots in `ml/plots/`. The Node API calls `predict.py` as a child process and returns its JSON.
+
+**Limitation:** rent is right-skewed (skewness 3.11), which limits a purely linear model.
+
+---
+
+## Analytics: SQL, Excel, Tableau
+
+**Export from MongoDB to SQL files and CSV:**
+```bash
+cd backend
+npm run export-sql
+```
+This writes `sql/02_insert_data.sql` and five CSV files in `sql/data/`.
+
+**MySQL (Workbench):** run in order
+1. `sql/01_schema.sql` creates the database `rental_analytics` with `users`, `properties`, `inquiries`, `leases`
+2. `sql/02_insert_data.sql` loads the data
+3. `sql/03_queries.sql` run one query at a time (Ctrl+Enter)
+
+Queries cover LEFT JOIN, GROUP BY with HAVING, subqueries, CASE, window functions (RANK), date functions, UNION and IN, single-row functions, transactions with ROLLBACK, a view and data dictionary lookups.
+
+**Excel:** open `sql/data/property_analysis.csv`, add logical formulas (IF, nested IF, AND, OR, IFERROR, SUMIF, COUNTIF, AVERAGEIF) and three pivot tables on a Pivots sheet.
+
+**Tableau Public:** connect the CSV files and build calculated fields, a parameter, six sheets and a dashboard with city, type and status filters.
+
+---
+
+## Frontend Pages
+
+| Route | Page | Access |
+|---|---|---|
+| `/` | Home with hero search and latest listings | Public |
+| `/properties` | Search, filters, pagination | Public |
+| `/properties/:id` | Details, inquiry modal, market estimate | Public (inquiry needs tenant login) |
+| `/login`, `/register` | Authentication with form validation | Public |
+| `/dashboard` | Owner dashboard or tenant dashboard | Logged in |
+| `/estimator` | ML rent estimator | Logged in |
+
+---
+
+## Testing
+
+- **API:** open `backend/api-tests.http` in VS Code with the REST Client extension and click "Send Request" above each request. Run requests in order: tokens and IDs are reused between them.
+- **Frontend:** follow the 12-step checklist: browse, filter, open a property, register with an invalid phone number, log in as a tenant, send an inquiry, compare with the market estimate, use the estimator, open `/dashboard` while logged out (redirects to login), log in as an owner, add, edit and delete a property, and accept an inquiry.
+- **ML:** `python ml/predict.py ml/sample_input.json`
+- Screenshots go in `docs/screenshots/`.
+
+---
+
+## Security
+
+- Passwords hashed with bcrypt (10 salt rounds), never returned by the API
+- JWT verification on protected routes, with role checks (`owner`, `tenant`)
+- Owners can edit or delete only their own properties and respond only to inquiries on them
+- Request fields are whitelisted, so a client cannot set `owner`
+- Search text is regex-escaped, and Mongoose validates all input
+- Centralized error handler with consistent JSON errors
+- `.env` is excluded from Git
+
+For production you would also add rate limiting, HTTPS, refresh tokens and stricter CORS.
+
+---
+
+## Troubleshooting
+
+| Problem | Fix |
+|---|---|
+| "Network Error" in the browser | Start the backend (`npm run dev` in `backend`) and open `/api/health` |
+| CORS error in the console | Make `CLIENT_URL` in `.env` exactly `http://localhost:5173`, then restart the backend |
+| Empty property list | Run `npm run seed` |
+| `Cannot find module` | Run `npm install` in that folder |
+| MongoDB connection refused | Start the MongoDB service or check `MONGO_URI` (use `127.0.0.1`) |
+| Rent estimate fails: "Could not start Python" | Set `PYTHON_CMD=py` in `.env` and restart |
+| Rent estimate fails: "Model files not found" | Run `python rental_ml.py` in the `ml` folder |
+| Vite error: failed to resolve import | A file is in the wrong folder. Use forward slashes in Git Bash and compare with the folder structure above |
+| Port 5173 already in use | Close the other frontend terminal (`strictPort` is on so CORS keeps working) |
+| `export-sql` says the database is empty | Run `npm run seed` first |
+| Workbench error 1175 | Run updates inside a transaction, as in the query file |
+| `.http` request says the connection was rejected | The backend is not running |
+
+---
+
+## Future Scope
+
+- Image upload for properties and a gallery
+- Online rent payments and digital agreements
+- Chat between tenant and owner, email and SMS notifications
+- Random Forest and gradient boosting for better rent prediction, with hyperparameter tuning and cross-validation
+- Map view and distance to metro or schools as extra model features
+- Cloud deployment with Docker and CI/CD
+
+---
+
+## Author
+
+**Ashish* · UID [@5MCA20104] · Section @5MCA6-A
+MCA (General), Semester 3, University Institute of Computing, Chandigarh University
+GitHub: https://github.com/Ashish-1910/rental-property-system

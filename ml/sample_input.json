@@ -1,0 +1,10 @@
+{
+  "city": "Mohali",
+  "property_type": "Apartment",
+  "furnished": "Semi-Furnished",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area_sqft": 1250,
+  "floor": 4,
+  "amenity_count": 6
+}
